@@ -1,0 +1,708 @@
+Text,Text_ok,Sentiment_Polarity,Sentiments
+ Enjoying a beautiful day at the park!              ,enjoying beautiful day park,0.675,Tích cực
+ Traffic was terrible this morning.                 ,traffic terrible morning,-1.0,Tiêu cực
+ Just finished an amazing workout! 💪               ,finished amazing workout,0.6000000000000001,Tích cực
+ Excited about the upcoming weekend getaway!        ,excited upcoming weekend getaway,0.375,Tích cực
+ Trying out a new recipe for dinner tonight.        ,trying new recipe dinner tonight,0.13636363636363635,Tích cực
+ Feeling grateful for the little things in life.    ,feeling grateful little things life,-0.1875,Tiêu cực
+ Rainy days call for cozy blankets and hot cocoa.   ,rainy days call cozy blankets hot cocoa,0.02500000000000001,Trung lập
+ The new movie release is a must-watch!             ,new movie release mustwatch,0.13636363636363635,Tích cực
+ Political discussions heating up on the timeline.  ,political discussions heating timeline,0.0,Trung lập
+ Missing summer vibes and beach days.               ,missing summer vibes beach days,-0.2,Tiêu cực
+ Just published a new blog post. Check it out!      ,published new blog post check,0.13636363636363635,Tích cực
+ Feeling a bit under the weather today.             ,feeling bit weather today,0.0,Trung lập
+ Exploring the city's hidden gems.                  ,exploring citys hidden gems,-0.16666666666666666,Tiêu cực
+" New year, new fitness goals! 💪                    ",new year new fitness goals,0.13636363636363635,Tích cực
+ Technology is changing the way we live.            ,technology changing way live,0.13636363636363635,Tích cực
+ Reflecting on the past and looking ahead.          ,reflecting past looking ahead,-0.25,Tiêu cực
+ Just adopted a cute furry friend! 🐾              ,adopted cute furry friend,0.5,Tích cực
+ Late-night gaming session with friends.            ,latenight gaming session friends,0.0,Trung lập
+ Attending a virtual conference on AI.              ,attending virtual conference ai,0.0,Trung lập
+ Winter blues got me feeling low.                   ,winter blues got feeling low,0.0,Trung lập
+ Sipping coffee and enjoying a good book.           ,sipping coffee enjoying good book,0.6,Tích cực
+ Exploring the world of virtual reality.            ,exploring world virtual reality,0.0,Trung lập
+ Productive day ticking off my to-do list.          ,productive day ticking todo list,0.0,Trung lập
+ Just finished a challenging workout routine.       ,finished challenging workout routine,0.5,Tích cực
+ Celebrating a milestone at work! 🎉               ,celebrating milestone work,0.0,Trung lập
+ Sunday brunch with friends.                        ,sunday brunch friends,0.0,Trung lập
+ Learning a new language for personal growth.       ,learning new language personal growth,0.06818181818181818,Trung lập
+ Quiet evening with a good book.                    ,quiet evening good book,0.35,Tích cực
+ Reflecting on the importance of mental health.     ,reflecting importance mental health,-0.1,Tiêu cực
+ New painting in progress! 🎨                       ,new painting progress,0.13636363636363635,Tích cực
+ Weekend road trip to explore scenic views.         ,weekend road trip explore scenic views,0.0,Trung lập
+ Enjoying a cup of tea and watching the sunset.     ,enjoying cup tea watching sunset,0.5,Tích cực
+ Coding a new project with enthusiasm.              ,coding new project enthusiasm,0.13636363636363635,Tích cực
+ Feeling inspired after attending a workshop.       ,feeling inspired attending workshop,0.0,Trung lập
+ Winter sports day at the local park.               ,winter sports day local park,0.0,Trung lập
+ Quality time with family this weekend.             ,quality time family weekend,0.0,Trung lập
+ Attending a live music concert tonight.            ,attending live music concert tonight,0.13636363636363635,Tích cực
+ Practicing mindfulness with meditation.            ,practicing mindfulness meditation,0.0,Trung lập
+ Trying out a new dessert recipe.                   ,trying new dessert recipe,0.13636363636363635,Tích cực
+ Excited about the upcoming gaming tournament.      ,excited upcoming gaming tournament,0.375,Tích cực
+ Planning a garden makeover for spring.             ,planning garden makeover spring,0.0,Trung lập
+ Celebrating a friend's birthday tonight! 🎂       ,celebrating friends birthday tonight,0.0,Trung lập
+ Feeling accomplished after a productive day.       ,feeling accomplished productive day,0.2,Tích cực
+ A cozy evening with a good movie.                 ,cozy evening good movie,0.25,Tích cực
+ Exploring local art galleries this weekend.        ,exploring local art galleries weekend,0.0,Trung lập
+ New book release from my favorite author!          ,new book release favorite author,0.3181818181818182,Tích cực
+ Attending a virtual reality meetup.                ,attending virtual reality meetup,0.0,Trung lập
+ Reflecting on the beauty of nature.                ,reflecting beauty nature,0.0,Trung lập
+ Cooking a special dinner for loved ones.           ,cooking special dinner loved ones,0.5285714285714286,Tích cực
+ Feeling optimistic about the week ahead.           ,feeling optimistic week ahead,0.0,Trung lập
+ Starting a new fitness challenge tomorrow! 💪     ,starting new fitness challenge tomorrow,0.06818181818181818,Trung lập
+ Sunday bike ride through scenic trails.           ,sunday bike ride scenic trails,0.0,Trung lập
+ Can't believe the injustice happening in our society.,cant believe injustice happening society,0.0,Trung lập
+ Feeling a sense of fear after watching a thriller movie. ,feeling sense fear watching thriller movie,0.0,Trung lập
+ Heartbroken after hearing the news about a natural disaster. ,heartbroken hearing news natural disaster,0.1,Tích cực
+ The state of the world's environment is just disgusting. ,state worlds environment disgusting,-1.0,Tiêu cực
+ Pure happiness: celebrating a loved one's achievement! ,pure happiness celebrating loved ones achievement,0.5380952380952381,Tích cực
+ Laughter is the best medicine—enjoying a comedy show. ,laughter best medicineenjoying comedy show,1.0,Tích cực
+ Sharing love and positive vibes with everyone! ❤️      ,sharing love positive vibes everyone,0.36363636363636365,Tích cực
+ An amusing incident brightened up my day!               ,amusing incident brightened day,0.6,Tích cực
+ Enjoying a quiet evening with a book and some tea.      ,enjoying quiet evening book tea,0.25,Tích cực
+ Admiring the beauty of nature during a peaceful hike.   ,admiring beauty nature peaceful hike,0.25,Tích cực
+ Sending affectionate vibes to all my followers!          ,sending affectionate vibes followers,0.0,Trung lập
+ Experiencing awe at the breathtaking sunset.            ,experiencing awe breathtaking sunset,1.0,Tích cực
+ Disappointed with the service at a local restaurant.    ,disappointed service local restaurant,-0.375,Tiêu cực
+ A surprise gift from a friend made my day!              ,surprise gift friend made day,0.0,Trung lập
+ Finding acceptance in the midst of life's challenges.   ,finding acceptance midst lifes challenges,0.0,Trung lập
+ Overflowing with adoration for my adorable pet! 🐾      ,overflowing adoration adorable pet,0.5,Tích cực
+ Anticipating a thrilling adventure in the coming weeks. ,anticipating thrilling adventure coming weeks,0.25,Tích cực
+ A bitter experience turned into a valuable lesson.      ,bitter experience turned valuable lesson,-0.1,Tiêu cực
+ Finding calmness in the midst of a busy day.            ,finding calmness midst busy day,0.1,Tích cực
+ Confusion clouds my mind as I navigate through decisions.,confusion clouds mind navigate decisions,0.0,Trung lập
+ Excitement building up for the upcoming vacation!       ,excitement building upcoming vacation,0.0,Trung lập
+ Kindness witnessed today restored my faith in humanity. ,kindness witnessed today restored faith humanity,0.0,Trung lập
+ Pride in achieving a personal milestone.               ,pride achieving personal milestone,0.0,Trung lập
+ A moment of shame for not standing up against injustice. ,moment shame standing injustice,0.0,Trung lập
+ Fuming with anger after a heated argument.            ,fuming anger heated argument,-0.7,Tiêu cực
+ The fear of the unknown is keeping me up at night.    ,fear unknown keeping night,-0.1,Tiêu cực
+ Heartfelt sadness after bidding farewell to a dear friend. ,heartfelt sadness bidding farewell dear friend,0.0,Trung lập
+ The state of corruption in our society is utterly disgusting. ,state corruption society utterly disgusting,-1.0,Tiêu cực
+ Overflowing happiness: welcoming a new family member!  ,overflowing happiness welcoming new family member,0.41818181818181815,Tích cực
+ Laughter is the key to joy—attending a stand-up comedy show. ,laughter key joyattending standup comedy show,0.0,Trung lập
+ Sending love to all my followers on this beautiful day! ❤️ ,sending love followers beautiful day,0.675,Tích cực
+ Amused by the antics of my pet—it's pure amusement!      ,amused antics petits pure amusement,0.21428571428571427,Tích cực
+ Enjoying every moment of this trip—pure enjoyment!      ,enjoying every moment trippure enjoyment,0.5,Tích cực
+ Admiring the dedication of volunteers at a local charity. ,admiring dedication volunteers local charity,0.0,Trung lập
+ Sending affectionate vibes to friends and family.        ,sending affectionate vibes friends family,0.0,Trung lập
+ Awe-struck by the beauty of the night sky.               ,awestruck beauty night sky,0.0,Trung lập
+ Disappointed with the lack of progress in a personal project. ,disappointed lack progress personal project,-0.375,Tiêu cực
+ A surprise visit from an old friend brought tears of joy. ,surprise visit old friend brought tears joy,0.45,Tích cực
+ Embracing acceptance of life's ups and downs.           ,embracing acceptance lifes ups downs,0.0,Trung lập
+ Overflowing adoration for a cute rescue puppy! 🐶       ,overflowing adoration cute rescue puppy,0.5,Tích cực
+ Anticipating the release of a much-awaited movie.       ,anticipating release muchawaited movie,0.0,Trung lập
+ Bitter experience at the customer service department.   ,bitter experience customer service department,-0.1,Tiêu cực
+ Finding calmness amidst the chaos of daily life.        ,finding calmness amidst chaos daily life,0.0,Trung lập
+ Confusion reigns as I try to make sense of recent events.,confusion reigns try make sense recent events,0.0,Trung lập
+ Excitement building up for a surprise birthday party.   ,excitement building surprise birthday party,0.0,Trung lập
+ Witnessed an act of kindness that made my day.          ,witnessed act kindness made day,0.0,Trung lập
+ Pride in completing a challenging fitness challenge.    ,pride completing challenging fitness challenge,0.5,Tích cực
+ A moment of shame for not speaking up against injustice.,moment shame speaking injustice,0.0,Trung lập
+ Reflecting on the beauty of diversity in our world.     ,reflecting beauty diversity world,0.0,Trung lập
+ Excitement for a quiet evening with a good book.        ,excitement quiet evening good book,0.35,Tích cực
+ Feeling bitter about the unfairness in the workplace.   ,feeling bitter unfairness workplace,-0.1,Tiêu cực
+ Calmness prevails as I practice mindfulness.            ,calmness prevails practice mindfulness,0.0,Trung lập
+ Confusion surrounds me as I navigate through life's choices. ,confusion surrounds navigate lifes choices,0.0,Trung lập
+ Excitement for a weekend road trip to explore new places. ,excitement weekend road trip explore new places,0.13636363636363635,Tích cực
+ Kindness witnessed today restores my faith in humanity.  ,kindness witnessed today restores faith humanity,0.0,Trung lập
+ Pride in accomplishing personal and professional goals.  ,pride accomplishing personal professional goals,0.05,Trung lập
+ Shame for not being true to my values in a difficult situation.,shame true values difficult situation,-0.07500000000000001,Trung lập
+" Revisiting old memories, feeling a sense of elation. ",revisiting old memories feeling sense elation,0.1,Tích cực
+ The victory of our team brought euphoria to the city. ,victory team brought euphoria city,0.0,Trung lập
+" Embracing the beauty of nature, a moment of contentment. ",embracing beauty nature moment contentment,0.0,Trung lập
+" Meditating by the serene lake, finding inner peace.   ",meditating serene lake finding inner peace,0.0,Trung lập
+ Overflowing with gratitude for life's blessings.      ,overflowing gratitude lifes blessings,0.0,Trung lập
+" Hopeful for a brighter tomorrow, despite challenges.  ",hopeful brighter tomorrow despite challenges,0.0,Trung lập
+ Empowered to make a difference in my community.        ,empowered make difference community,0.0,Trung lập
+ Compassion in action: supporting a local charity event. ,compassion action supporting local charity event,0.11666666666666665,Tích cực
+" A moment of tenderness, connecting with loved ones.    ",moment tenderness connecting loved ones,0.7,Tích cực
+ Arousal of excitement as I await a special announcement.,arousal excitement await special announcement,0.35714285714285715,Tích cực
+ Enthusiastically diving into a new project.            ,enthusiastically diving new project,0.13636363636363635,Tích cực
+ Feeling a sense of fulfillment after reaching a milestone.,feeling sense fulfillment reaching milestone,0.0,Trung lập
+ Reverence for the beauty of a historic landmark.       ,reverence beauty historic landmark,0.0,Trung lập
+ Elation after a surprise reunion with old friends.    ,elation surprise reunion old friends,0.1,Tích cực
+ The euphoria of a live music concert under the stars.  ,euphoria live music concert stars,0.13636363636363635,Tích cực
+ Contentment in the simplicity of a quiet Sunday.       ,contentment simplicity quiet sunday,0.0,Trung lập
+ Serenity found in the pages of a favorite book.        ,serenity found pages favorite book,0.5,Tích cực
+ Gratitude for the support received during tough times. ,gratitude support received tough times,-0.3888888888888889,Tiêu cực
+ Hopeful about the possibilities of a new journey.      ,hopeful possibilities new journey,0.13636363636363635,Tích cực
+ Empowerment through learning and personal growth.      ,empowerment learning personal growth,0.0,Trung lập
+ Compassion towards those in need during the holidays.  ,compassion towards need holidays,0.0,Trung lập
+ Tenderness in the warmth of a cozy winter evening.     ,tenderness warmth cozy winter evening,-0.19999999999999998,Tiêu cực
+ Arousal of excitement for an upcoming adventure.       ,arousal excitement upcoming adventure,0.0,Trung lập
+ Enthusiasm for a creative project in the making.       ,enthusiasm creative project making,0.5,Tích cực
+ Fulfillment in completing a challenging workout routine.,fulfillment completing challenging workout routine,0.5,Tích cực
+ Reverence for the artistry displayed in a museum.      ,reverence artistry displayed museum,0.0,Trung lập
+ Elation after achieving a personal goal.               ,elation achieving personal goal,0.0,Trung lập
+ Elation over discovering a hidden gem in the city.   ,elation discovering hidden gem city,-0.16666666666666666,Tiêu cực
+ The euphoria of a surprise birthday celebration.     ,euphoria surprise birthday celebration,0.0,Trung lập
+ Contentment in the simplicity of a home-cooked meal. ,contentment simplicity homecooked meal,0.0,Trung lập
+ Serenity found in the melody of a peaceful piano.    ,serenity found melody peaceful piano,0.25,Tích cực
+ Gratitude for the supportive community around me.    ,gratitude supportive community around,0.5,Tích cực
+ Hopeful about the prospects of a new business venture.,hopeful prospects new business venture,0.13636363636363635,Tích cực
+ Empowerment through mentoring and guiding others.    ,empowerment mentoring guiding others,0.0,Trung lập
+ Compassion shown through acts of kindness in the community.,compassion shown acts kindness community,0.0,Trung lập
+ Tenderness in a heartfelt message to a loved one.    ,tenderness heartfelt message loved one,0.35,Tích cực
+ Arousal of excitement before a much-awaited trip.    ,arousal excitement muchawaited trip,0.0,Trung lập
+ Enthusiasm for a new artistic project in the works.  ,enthusiasm new artistic project works,0.23484848484848483,Tích cực
+ Feeling a sense of fulfillment after helping others. ,feeling sense fulfillment helping others,0.0,Trung lập
+ Reverence for the historical significance of a landmark.,reverence historical significance landmark,0.0,Trung lập
+ Elation after achieving a fitness milestone.         ,elation achieving fitness milestone,0.0,Trung lập
+ The euphoria of a successful product launch.         ,euphoria successful product launch,0.75,Tích cực
+ Contentment in the embrace of a loved one.           ,contentment embrace loved one,0.7,Tích cực
+ Serenity found in the beauty of a sunset by the sea.  ,serenity found beauty sunset sea,0.0,Trung lập
+ Gratitude for the small joys that each day brings.   ,gratitude small joys day brings,-0.25,Tiêu cực
+ Hopeful about the potential for personal growth.      ,hopeful potential personal growth,0.0,Trung lập
+ Empowerment through learning a new skill.            ,empowerment learning new skill,0.13636363636363635,Tích cực
+ Compassion in volunteering for a local charity.       ,compassion volunteering local charity,0.0,Trung lập
+ Tenderness in a quiet moment shared with a pet.      ,tenderness quiet moment shared pet,0.0,Trung lập
+ Arousal of excitement for an upcoming festival.       ,arousal excitement upcoming festival,0.0,Trung lập
+ Enthusiasm for a DIY home improvement project.       ,enthusiasm diy home improvement project,0.0,Trung lập
+ Fulfillment in completing a challenging puzzle.      ,fulfillment completing challenging puzzle,0.5,Tích cực
+ Reverence for the wonders of nature on a hiking trail.,reverence wonders nature hiking trail,0.0,Trung lập
+ Elation after a surprise reunion with a childhood friend.,elation surprise reunion childhood friend,0.0,Trung lập
+ Suffering from despair after another setback.      ,suffering despair another setback,0.0,Trung lập
+" Overwhelmed by grief, missing a loved one dearly.  ",overwhelmed grief missing loved one dearly,-0.10000000000000002,Tiêu cực
+ Loneliness creeps in as the night grows colder.    ,loneliness creeps night grows colder,0.0,Trung lập
+ Jealousy consumes me as I witness others' success. ,jealousy consumes witness others success,0.3,Tích cực
+ Resentment building up over past betrayals.        ,resentment building past betrayals,-0.25,Tiêu cực
+ Frustration mounts as obstacles block my path.     ,frustration mounts obstacles block path,-0.05,Trung lập
+" Boredom sets in, the day feels endlessly dull.     ",boredom sets day feels endlessly dull,-0.2916666666666667,Tiêu cực
+" Anxiety grips my heart, worry clouds my thoughts.  ",anxiety grips heart worry clouds thoughts,0.0,Trung lập
+ Intimidation by the unknown future ahead.          ,intimidation unknown future ahead,-0.05,Trung lập
+ Helplessness sinks in as challenges pile up.       ,helplessness sinks challenges pile,-0.1,Tiêu cực
+ Envy eats away at me as I see others' prosperity.  ,envy eats away see others prosperity,0.0,Trung lập
+ Regret over missed opportunities haunts my thoughts.,regret missed opportunities haunts thoughts,0.0,Trung lập
+ Disgust at the sight of injustice and cruelty.     ,disgust sight injustice cruelty,0.0,Trung lập
+" Drowning in despair, hope slipping through my fingers.",drowning despair hope slipping fingers,-0.1,Tiêu cực
+" Grief weighs heavy, tears a constant companion.    ",grief weighs heavy tears constant companion,-0.3333333333333333,Tiêu cực
+" Loneliness in a crowded room, a silent cry for connection.",loneliness crowded room silent cry connection,0.0,Trung lập
+" Jealousy gnaws at my confidence, a toxic emotion.  ",jealousy gnaws confidence toxic emotion,0.0,Trung lập
+" Resentment festers, poisoning relationships.       ",resentment festers poisoning relationships,0.0,Trung lập
+" Frustration boils over, a volcanic eruption of emotions.",frustration boils volcanic eruption emotions,0.0,Trung lập
+" Boredom settles like dust, life feels mundane.     ",boredom settles like dust life feels mundane,-0.16666666666666666,Tiêu cực
+" Anxiety grips my chest, a relentless grip on my thoughts.",anxiety grips chest relentless grip thoughts,0.0,Trung lập
+" Intimidation by the challenges ahead, fear takes hold.",intimidation challenges ahead fear takes hold,0.0,Trung lập
+" Helplessness engulfs me, drowning in a sea of problems.",helplessness engulfs drowning sea problems,0.0,Trung lập
+" Envy poisons my thoughts, coveting others' success.",envy poisons thoughts coveting others success,0.3,Tích cực
+ Regret for decisions that led to a painful present.,regret decisions led painful present,-0.35,Tiêu cực
+ Disgust at the corruption that stains society.     ,disgust corruption stains society,0.0,Trung lập
+" Sinking in despair, each day darker than the last. ",sinking despair day darker last,0.0,Trung lập
+" Grief overwhelms, a storm of emotions within.      ",grief overwhelms storm emotions within,-0.8,Tiêu cực
+" Loneliness echoes in empty spaces, yearning for connection.",loneliness echoes empty spaces yearning connection,-0.1,Tiêu cực
+" Jealousy poisons my thoughts, resentment brewing within.",jealousy poisons thoughts resentment brewing within,0.0,Trung lập
+" Resentment festers, a wound that refuses to heal.  ",resentment festers wound refuses heal,0.0,Trung lập
+" Frustration escalates, a thunderstorm of emotions. ",frustration escalates thunderstorm emotions,0.0,Trung lập
+" Boredom lingers, a stagnant pool of indifference.  ",boredom lingers stagnant pool indifference,0.0,Trung lập
+" Embarking on a journey of discovery, fueled by curiosity and a thirst for knowledge. ",embarking journey discovery fueled curiosity thirst knowledge,0.0,Trung lập
+" Lost in the vast sea of information, an indifferent wave in the digital ocean. ",lost vast sea information indifferent wave digital ocean,0.0,Trung lập
+" The complex puzzle of life leaves me in a state of perpetual confusion, seeking answers in the chaos. ",complex puzzle life leaves state perpetual confusion seeking answers chaos,-0.3,Tiêu cực
+" A numbness settles over me, a shield against the overwhelming emotions life throws my way. ",numbness settles shield overwhelming emotions life throws way,0.5,Tích cực
+" Gazing at the sunset, a melancholic longing for moments that slip through the fingers of time. ",gazing sunset melancholic longing moments slip fingers time,0.0,Trung lập
+" Revisiting old photographs, caught in the embrace of nostalgia's bittersweet symphony. ",revisiting old photographs caught embrace nostalgias bittersweet symphony,0.1,Tích cực
+" Torn between conflicting emotions, an ambivalence that paints my decisions in shades of uncertainty. ",torn conflicting emotions ambivalence paints decisions shades uncertainty,0.0,Trung lập
+" Embracing the ebb and flow of life, finding acceptance in the dance of existence. ",embracing ebb flow life finding acceptance dance existence,0.0,Trung lập
+" Facing challenges head-on, a determination that fuels the fire within to achieve the impossible. ",facing challenges headon determination fuels fire within achieve impossible,-0.6666666666666666,Tiêu cực
+" Serenity found in the stillness of nature, a tranquil retreat from the chaos of the modern world. ",serenity found stillness nature tranquil retreat chaos modern world,0.2,Tích cực
+" Curiosity leading me down the rabbit hole of knowledge, a perpetual student in life's classroom. ",curiosity leading rabbit hole knowledge perpetual student lifes classroom,0.0,Trung lập
+" Floating through the day with an air of indifference, detached from the mundane happenings around. ",floating day air indifference detached mundane happenings around,-0.16666666666666666,Tiêu cực
+" Entangled in the web of thoughts, confusion reigning as I navigate the labyrinth of ideas. ",entangled web thoughts confusion reigning navigate labyrinth ideas,0.0,Trung lập
+" Numb to the chaos, emotions locked away, a stoic facade concealing the inner turmoil. ",numb chaos emotions locked away stoic facade concealing inner turmoil,-0.3,Tiêu cực
+" Melancholy whispers in the breeze, a silent conversation with the echoes of forgotten dreams. ",melancholy whispers breeze silent conversation echoes forgotten dreams,0.0,Trung lập
+" Stumbling upon an old journal, nostalgia flooding in waves, carrying me to moments long gone. ",stumbling upon old journal nostalgia flooding waves carrying moments long gone,0.025,Trung lập
+" A tapestry of conflicting feelings, weaving through uncertainty, caught in the threads of ambivalence. ",tapestry conflicting feelings weaving uncertainty caught threads ambivalence,0.0,Trung lập
+" Embracing the flaws, finding acceptance in imperfection, a journey towards self-love. ",embracing flaws finding acceptance imperfection journey towards selflove,0.0,Trung lập
+" Determination burning like a wildfire, overcoming obstacles, turning dreams into reality. ",determination burning like wildfire overcoming obstacles turning dreams reality,-0.05,Trung lập
+" Tranquil moments by the ocean, serenity washing over, a peaceful retreat within the waves' embrace. ",tranquil moments ocean serenity washing peaceful retreat within waves embrace,0.25,Tích cực
+" Exploring new horizons with the spark of curiosity, an adventurer in the vast landscape of knowledge. ",exploring new horizons spark curiosity adventurer vast landscape knowledge,0.06818181818181818,Trung lập
+" Drifting through the day with a nonchalant demeanor, embracing the art of indifference. ",drifting day nonchalant demeanor embracing art indifference,0.0,Trung lập
+" Wrestling with thoughts, a perplexed mind lost in the labyrinth of life's complexities. ",wrestling thoughts perplexed mind lost labyrinth lifes complexities,0.4,Tích cực
+" Immersed in a state of emotional numbness, a shield against the storm of daily struggles. ",immersed state emotional numbness shield storm daily struggles,0.0,Trung lập
+" A melancholic symphony playing in the background, the soundtrack of a wistful heart. ",melancholic symphony playing background soundtrack wistful heart,0.0,Trung lập
+" Flipping through the pages of an old yearbook, nostalgia painting smiles and tears on my face. ",flipping pages old yearbook nostalgia painting smiles tears face,0.1,Tích cực
+" Torn between opposing emotions, an ambivalence that colors my decisions with shades of uncertainty. ",torn opposing emotions ambivalence colors decisions shades uncertainty,0.0,Trung lập
+" Embracing life's imperfections, finding acceptance in the journey, scars and all. ",embracing lifes imperfections finding acceptance journey scars,0.0,Trung lập
+" A fiery determination burning within, fueled by the vision of reaching unparalleled heights. ",fiery determination burning within fueled vision reaching unparalleled heights,0.0,Trung lập
+" Basking in the serenity of a quiet forest, where the whispers of nature bring peace to the soul. ",basking serenity quiet forest whispers nature bring peace soul,0.0,Trung lập
+" Indifferent to the noise of the world, a silent observer in the midst of life's cacophony. ",indifferent noise world silent observer midst lifes cacophony,0.0,Trung lập
+" Navigating through the labyrinth of thoughts, confusion a constant companion in the maze of ideas. ",navigating labyrinth thoughts confusion constant companion maze ideas,0.0,Trung lập
+" An impenetrable numbness shields me from the emotional storms, a fortress of stoic resilience. ",impenetrable numbness shields emotional storms fortress stoic resilience,0.0,Trung lập
+" Melancholy painting the world in hues of nostalgia, a canvas of bittersweet memories. ",melancholy painting world hues nostalgia canvas bittersweet memories,0.0,Trung lập
+" A journey into the past, flipping through the pages of an old diary, nostalgia taking the lead. ",journey past flipping pages old diary nostalgia taking lead,-0.075,Trung lập
+" Ambivalence clouding decisions, caught in the crossroads of conflicting emotions. ",ambivalence clouding decisions caught crossroads conflicting emotions,0.0,Trung lập
+" Embracing imperfections, finding acceptance in the mosaic of life's beautiful chaos. ",embracing imperfections finding acceptance mosaic lifes beautiful chaos,0.85,Tích cực
+" Determination as the driving force, propelling me forward on the path to extraordinary achievements. ",determination driving force propelling forward path extraordinary achievements,0.3333333333333333,Tích cực
+" Seeking serenity in the melody of raindrops, a tranquil escape from the noise of everyday life. ",seeking serenity melody raindrops tranquil escape noise everyday life,-0.2,Tiêu cực
+" Curiosity driving the exploration of the unknown, a seeker of knowledge in uncharted territories. ",curiosity driving exploration unknown seeker knowledge uncharted territories,-0.1,Tiêu cực
+" Drifting through the day with an air of nonchalance, indifferent to the trivialities of life. ",drifting day air nonchalance indifferent trivialities life,0.0,Trung lập
+" Lost in the labyrinth of thoughts, confusion casting shadows on the quest for clarity. ",lost labyrinth thoughts confusion casting shadows quest clarity,0.0,Trung lập
+" Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence. ",wrapped cloak emotional numbness shield storms lifes turbulence,0.0,Trung lập
+" Melancholy as a companion, painting the canvas of life with the brushstrokes of wistful yearning. ",melancholy companion painting canvas life brushstrokes wistful yearning,0.0,Trung lập
+" Leafing through the pages of an old photo album, nostalgia weaving tales of laughter and tears. ",leafing pages old photo album nostalgia weaving tales laughter tears,0.1,Tích cực
+" Ambivalence in the air, caught between the crossroads of conflicting emotions and decisions. ",ambivalence air caught crossroads conflicting emotions decisions,0.0,Trung lập
+" Embracing the beauty in imperfections, finding acceptance in the mosaic of life's unpredictable art. ",embracing beauty imperfections finding acceptance mosaic lifes unpredictable art,-0.16666666666666666,Tiêu cực
+" Determination ablaze, forging a path through challenges, sculpting dreams into tangible realities. ",determination ablaze forging path challenges sculpting dreams tangible realities,0.0,Trung lập
+" Immerse in the serenity of a moonlit night, where the quiet whispers of nature bring peace to the soul. ",immerse serenity moonlit night quiet whispers nature bring peace soul,0.0,Trung lập
+" Fueled by curiosity, venturing into uncharted realms, a fearless explorer of the mysteries of the world. ",fueled curiosity venturing uncharted realms fearless explorer mysteries world,0.0,Trung lập
+"Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence. ",wrapped cloak emotional numbness shield storms lifes turbulence,0.0,Trung lập
+" Dancing through life with the exuberance of a carefree spirit, embracing joy and zest at every turn. ",dancing life exuberance carefree spirit embracing joy zest every turn,0.8,Tích cực
+" Basking in the golden glow of contentment, a serene river flowing through the landscape of the heart. ",basking golden glow contentment serene river flowing landscape heart,0.3,Tích cực
+" Gazing towards the horizon with hopeful eyes, painting a canvas of dreams illuminated by the sun of optimism. ",gazing towards horizon hopeful eyes painting canvas dreams illuminated sun optimism,0.0,Trung lập
+" Standing tall, proud as an oak, the branches of achievement reaching towards the sky of accomplishment. ",standing tall proud oak branches achievement reaching towards sky accomplishment,0.8,Tích cực
+" A heart overflowing with gratitude, a garden where appreciation blooms in the soil of kindness and connection. ",heart overflowing gratitude garden appreciation blooms soil kindness connection,0.0,Trung lập
+" Extending a hand, empathetic threads weaving a tapestry of understanding, embracing the joys and sorrows of others. ",extending hand empathetic threads weaving tapestry understanding embracing joys sorrows others,0.0,Trung lập
+" Compassionate clouds, heavy with care, showering empathy on the parched grounds of human suffering. ",compassionate clouds heavy care showering empathy parched grounds human suffering,-0.1,Tiêu cực
+" Playfully dancing in the rain of laughter, a whimsical spirit twirling in the puddles of joy and lightheartedness. ",playfully dancing rain laughter whimsical spirit twirling puddles joy lightheartedness,0.15000000000000002,Tích cực
+" Soaring on the wings of a free spirit, unburdened by the chains of conformity, painting the sky with independence. ",soaring wings free spirit unburdened chains conformity painting sky independence,0.4,Tích cực
+" Bathed in the glow of inspiration, a creative phoenix rising from the ashes of ordinary thoughts to explore new realms. ",bathed glow inspiration creative phoenix rising ashes ordinary thoughts explore new realms,0.12878787878787878,Tích cực
+" Navigating the sea of hope, sailing towards the sunrise of possibilities, confident in the ship of positive anticipation. ",navigating sea hope sailing towards sunrise possibilities confident ship positive anticipation,0.36363636363636365,Tích cực
+" Striding with confidence, footprints of self-assuredness imprinted on the sands of challenges conquered and victories claimed. ",striding confidence footprints selfassuredness imprinted sands challenges conquered victories claimed,0.0,Trung lập
+" Lost in the symphony of the night, a moonlit serenade that whispers tales of wanderlust and moonlit dreams. ",lost symphony night moonlit serenade whispers tales wanderlust moonlit dreams,0.0,Trung lập
+" Unveiling the layers of curiosity, a labyrinth of questions leading to the treasure troves of undiscovered knowledge. ",unveiling layers curiosity labyrinth questions leading treasure troves undiscovered knowledge,0.0,Trung lập
+" In the embrace of the autumn breeze, leaves of ambivalence dancing in a waltz between choices and uncertainties. ",embrace autumn breeze leaves ambivalence dancing waltz choices uncertainties,0.0,Trung lập
+" Gratitude as a guiding star, navigating the constellation of blessings in the vast universe of life's precious moments. ",gratitude guiding star navigating constellation blessings vast universe lifes precious moments,0.25,Tích cực
+" With a zestful heart, sprinting through fields of enthusiasm, chasing sunbeams and laughter in the meadows of joy. ",zestful heart sprinting fields enthusiasm chasing sunbeams laughter meadows joy,0.8,Tích cực
+" A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections. ",compassionate rain tears empathy falling gently nurturing seeds kindness garden human connections,0.1,Tích cực
+" Proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success. ",proudly scaling peaks achievement mountaineer conquering challenges planting flag success,0.55,Tích cực
+" Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow. ",embraced hopeful dawn gardener sowing seeds optimism tending blooms brighter tomorrow,0.0,Trung lập
+" A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere. ",playful escapade carnival life carousel laughter cotton candy dreams swirling joyous atmosphere,0.0,Trung lập
+" Floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams. ",floating clouds inspiration artist painting sky strokes creativity creating masterpiece dreams,0.0,Trung lập
+" Navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance. ",navigating river contentment serene boat cruise tranquil waters inner peace acceptance,0.0,Trung lập
+" With empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care. ",empathy lantern wandering dark alleys sorrow illuminating path compassion care,-0.15,Tiêu cực
+" A free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities. ",free spirit soaring wings dreams leaving trails independence azure sky boundless possibilities,0.1,Tích cực
+" Bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart. ",bathed golden hues gratefulness sunset appreciation casting warm glow landscapes heart,0.44999999999999996,Tích cực
+" Confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace. ",confident strides dance life ballroom selfassuredness leads twirling challenges grace,0.5,Tích cực
+" Hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities. ",hopeful whispers wind carrying promises brighter tomorrow symphony optimism air possibilities,0.0,Trung lập
+" Playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air. ",playfully juggling responsibilities circus performer balancing acts work joy tossing laughter air,0.8,Tích cực
+" Whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination. ",whispering tales inspiration stars storyteller crafting constellations threads imagination,0.0,Trung lập
+" Charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored. ",charting course waves hopeful anticipation sailor steering towards shores dreams yet unexplored,0.0,Trung lập
+" Drowning in the abyss of despair, a heart shattered into fragments, lost in the echoing silence of hopelessness. ",drowning abyss despair heart shattered fragments lost echoing silence hopelessness,0.0,Trung lập
+" Bitterness festering like a venomous vine, entwining the soul in a web of resentment, poisoning the garden of peace. ",bitterness festering like venomous vine entwining soul web resentment poisoning garden peace,0.0,Trung lập
+" Wandering through the desert of loneliness, each step a heavy sigh, mirages of connection shimmering but never materializing. ",wandering desert loneliness step heavy sigh mirages connection shimmering never materializing,-0.2,Tiêu cực
+" Yearning for a touch that's not there, echoes of a distant warmth haunting the heart in the cold embrace of solitude. ",yearning touch thats echoes distant warmth haunting heart cold embrace solitude,-0.35,Tiêu cực
+" Eyes wide open in the night, fearful shadows dancing on the walls, the mind a prisoner of imagined horrors. ",eyes wide open night fearful shadows dancing walls mind prisoner imagined horrors,-0.3333333333333333,Tiêu cực
+" Apprehensive steps on the tightrope of uncertainty, a balancing act where the fall seems inevitable, anxiety a constant companion. ",apprehensive steps tightrope uncertainty balancing act fall seems inevitable anxiety constant companion,0.0,Trung lập
+" Overwhelmed by the weight of the world, Atlas with trembling shoulders, each responsibility a boulder in the landscape of exhaustion. ",overwhelmed weight world atlas trembling shoulders responsibility boulder landscape exhaustion,0.0,Trung lập
+" Jealousy, a green-eyed monster, lurking in the shadows, casting a dark cloud over the sunshine of others' success. ",jealousy greeneyed monster lurking shadows casting dark cloud sunshine others success,0.075,Trung lập
+" Devastated by the storm of betrayal, the wreckage of trust scattered like debris, a heart torn by the winds of broken promises. ",devastated storm betrayal wreckage trust scattered like debris heart torn winds broken promises,-0.4,Tiêu cực
+" Frustrated fingers tapping on the keyboard, a symphony of annoyance composing an unsolvable puzzle of unmet expectations. ",frustrated fingers tapping keyboard symphony annoyance composing unsolvable puzzle unmet expectations,-0.7,Tiêu cực
+" Envious eyes fixated on the gilded prize, a heartache fueled by the painful desire for possessions that seem forever out of reach. ",envious eyes fixated gilded prize heartache fueled painful desire possessions seem forever reach,-0.7,Tiêu cực
+" Dismissive glances, a fortress built with indifference, walls impenetrable to the pleas of understanding and recognition. ",dismissive glances fortress built indifference walls impenetrable pleas understanding recognition,0.0,Trung lập
+" Shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration. ",shattered dreams lie floor like fragments glass mosaic disappointment crafted hands frustration,-0.6,Tiêu cực
+" Loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne. ",loneliness silent companion night echo chamber solitude hearts solitary nocturne,0.0,Trung lập
+" Fearful whispers in the dark, the mind haunted by the specter of the unknown, shadows dancing to the rhythm of anxiety's tune. ",fearful whispers dark mind haunted specter unknown shadows dancing rhythm anxietys tune,-0.38333333333333336,Tiêu cực
+" Bitterness, a bitter aftertaste lingering on the tongue, each word a reminder of wounds that refuse to heal with the passing of time. ",bitterness bitter aftertaste lingering tongue word reminder wounds refuse heal passing time,-0.1,Tiêu cực
+" Overwhelmed by the cacophony of expectations, a drowning soul in the tempest of pressure, struggling to stay afloat. ",overwhelmed cacophony expectations drowning soul tempest pressure struggling stay afloat,0.0,Trung lập
+" Jealousy, a venom that seeps through the veins, poisoning the heart and turning it into a breeding ground for discontent. ",jealousy venom seeps veins poisoning heart turning breeding ground discontent,0.0,Trung lập
+" Devastated by the revelation of betrayal, the trust shattered like fragile glass, leaving shards of pain in its wake. ",devastated revelation betrayal trust shattered like fragile glass leaving shards pain wake,0.0,Trung lập
+" Frustrated attempts to mend a broken connection, the threads of understanding slipping through the fingers like grains of sand. ",frustrated attempts mend broken connection threads understanding slipping fingers like grains sand,-0.4000000000000001,Tiêu cực
+" Envious gazes cast upon the podium of success, a bitter pill swallowed, the taste lingering as a constant reminder of unattained heights. ",envious gazes cast upon podium success bitter pill swallowed taste lingering constant reminder unattained heights,0.06666666666666667,Trung lập
+" Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference. ",dismissive gestures curtain drawn shield vulnerability stage emotions take backseat performance indifference,0.0,Trung lập
+" Despair like a heavy fog, enveloping every thought, blurring the path ahead, a journey in the labyrinth of utter hopelessness. ",despair like heavy fog enveloping every thought blurring path ahead journey labyrinth utter hopelessness,-0.1,Tiêu cực
+" Bitterness, a bitter chill in the air, freezing moments into icicles of resentment that dangle precariously over the landscape of memory. ",bitterness bitter chill air freezing moments icicles resentment dangle precariously landscape memory,-0.1,Tiêu cực
+" Loneliness, a solitary moon in a starless sky, casting a cold glow on the landscape of isolation, where echoes bounce in empty spaces. ",loneliness solitary moon starless sky casting cold glow landscape isolation echoes bounce empty spaces,-0.35,Tiêu cực
+" Yearning for the warmth of a vanished sun, a heartache painted in the hues of a sunset that never graced the horizon. ",yearning warmth vanished sun heartache painted hues sunset never graced horizon,0.0,Trung lập
+" Fearful eyes scanning the shadows, a prisoner of the night, terrorized by the lurking monsters born from the mind's darkest corners. ",fearful eyes scanning shadows prisoner night terrorized lurking monsters born minds darkest corners,-0.9,Tiêu cực
+" Apprehensive whispers in the wind, a forecast of uncertainty, the mind's weather vane spinning wildly in the storm of doubt. ",apprehensive whispers wind forecast uncertainty minds weather vane spinning wildly storm doubt,0.1,Tích cực
+" Overwhelmed by the maze of expectations, a minotaur of pressure lurking in the labyrinth, waiting to devour the spirit of resilience. ",overwhelmed maze expectations minotaur pressure lurking labyrinth waiting devour spirit resilience,0.0,Trung lập
+" Jealousy, a festering wound, the pain intensifying with each glance at the garden of others' achievements, blooming beyond the fence. ",jealousy festering wound pain intensifying glance garden others achievements blooming beyond fence,0.0,Trung lập
+" Devastated, a heart in ruins, the echoes of shattered dreams reverberating in the chambers, a requiem for what once was whole. ",devastated heart ruins echoes shattered dreams reverberating chambers requiem whole,0.02500000000000001,Trung lập
+" Frustrated attempts to untangle the knot of confusion, the threads of understanding slipping further into the labyrinth of miscommunication. ",frustrated attempts untangle knot confusion threads understanding slipping labyrinth miscommunication,-0.39999999999999997,Tiêu cực
+" Envious eyes locked on the treasure chest of opportunities, a heartache fueled by the desire for keys that seem forever elusive. ",envious eyes locked treasure chest opportunities heartache fueled desire keys seem forever elusive,0.0,Trung lập
+Awe-struck by the breathtaking sunrise over the mountains.      ,awestruck breathtaking sunrise mountains,1.0,Tích cực
+Navigating through the challenges with determination.          ,navigating challenges determination,0.0,Trung lập
+Nostalgia hits while flipping through an old photo album.     ,nostalgia hits flipping old photo album,0.1,Tích cực
+Thrilled to witness the grandeur of a cultural festival.       ,thrilled witness grandeur cultural festival,0.35,Tích cực
+Calmness found in the rhythm of raindrops on the windowpane.   ,calmness found rhythm raindrops windowpane,0.0,Trung lập
+Overwhelmed by the support received during a personal challenge.,overwhelmed support received personal challenge,0.0,Trung lập
+Excitement builds as the countdown to a long-awaited vacation begins. ,excitement builds countdown longawaited vacation begins,0.0,Trung lập
+"Reflecting on life's journey, grateful for the lessons learned. ",reflecting lifes journey grateful lessons learned,0.0,Trung lập
+Bittersweet emotions arise while bidding farewell to a dear friend. ,bittersweet emotions arise bidding farewell dear friend,0.0,Trung lập
+Curiosity sparked by exploring a mysterious ancient ruin.      ,curiosity sparked exploring mysterious ancient ruin,0.0,Trung lập
+Admiration for the intricate details of a handcrafted masterpiece. ,admiration intricate details handcrafted masterpiece,0.0,Trung lập
+Overjoyed by the warmth of a cozy fireplace on a winter evening.   ,overjoyed warmth cozy fireplace winter evening,-0.19999999999999998,Tiêu cực
+Inspiration strikes while observing the colors of a vibrant sunset.,inspiration strikes observing colors vibrant sunset,0.16666666666666666,Tích cực
+Motivated to achieve fitness goals after an invigorating workout.  ,motivated achieve fitness goals invigorating workout,0.0,Trung lập
+Gratitude for the simple joys found in a cup of morning coffee.    ,gratitude simple joys found cup morning coffee,0.0,Trung lập
+Feeling empowered after conquering a challenging hiking trail.     ,feeling empowered conquering challenging hiking trail,0.5,Tích cực
+Amused by the antics of playful kittens during playtime.           ,amused antics playful kittens playtime,0.0,Trung lập
+Contemplating life's mysteries under the starry night sky.         ,contemplating lifes mysteries starry night sky,0.0,Trung lập
+Joyful reunion with long-lost friends after years of separation.   ,joyful reunion longlost friends years separation,0.0,Trung lập
+Excitement builds while preparing for a surprise celebration.     ,excitement builds preparing surprise celebration,0.0,Trung lập
+Satisfaction derived from successfully completing a DIY project.  ,satisfaction derived successfully completing diy project,0.75,Tích cực
+Feeling blessed for the supportive community in times of need.    ,feeling blessed supportive community times need,0.5,Tích cực
+Captivated by the serenity of a tranquil garden in full bloom.     ,captivated serenity tranquil garden full bloom,0.35,Tích cực
+Anticipation for an upcoming adventure in an exotic destination.   ,anticipation upcoming adventure exotic destination,0.5,Tích cực
+Reflecting on personal growth achieved through life experiences.  ,reflecting personal growth achieved life experiences,0.0,Trung lập
+Nostalgic memories flood in while revisiting childhood favorites. ,nostalgic memories flood revisiting childhood favorites,-0.5,Tiêu cực
+Appreciation for the vibrant culture experienced during travel.   ,appreciation vibrant culture experienced travel,0.48333333333333334,Tích cực
+Confidence soars after overcoming public speaking anxiety.       ,confidence soars overcoming public speaking anxiety,0.0,Trung lập
+Contentment in the midst of a family gathering filled with laughter. ,contentment midst family gathering filled laughter,0.4,Tích cực
+Enthusiasm for learning new skills and expanding knowledge.      ,enthusiasm learning new skills expanding knowledge,0.13636363636363635,Tích cực
+Surprise and delight at discovering a hidden gem in the city.    ,surprise delight discovering hidden gem city,-0.16666666666666666,Tiêu cực
+A sense of accomplishment after completing a challenging workout.,sense accomplishment completing challenging workout,0.5,Tích cực
+Wonderment at the beauty of a double rainbow after the rain.     ,wonderment beauty double rainbow rain,0.0,Trung lập
+Optimism for a bright future amidst challenging times.           ,optimism bright future amidst challenging times,0.4000000000000001,Tích cực
+Pride in achieving a personal milestone in career progression.   ,pride achieving personal milestone career progression,0.0,Trung lập
+Happiness blooms like flowers in a garden on a sunny day.        ,happiness blooms like flowers garden sunny day,0.7,Tích cực
+Elation over discovering a rare book in a quaint bookstore.      ,elation discovering rare book quaint bookstore,0.3,Tích cực
+Curiosity piqued by the mysteries of an ancient archaeological site.,curiosity piqued mysteries ancient archaeological site,0.0,Trung lập
+Mesmerized by the cosmic dance of fireflies on a moonlit night.    ,mesmerized cosmic dance fireflies moonlit night,0.0,Trung lập
+Intrigued by the symphony of colors in an abstract art exhibition. ,intrigued symphony colors abstract art exhibition,0.0,Trung lập
+Giggles and joy echo in the air during a children's playdate.      ,giggles joy echo air childrens playdate,0.8,Tích cực
+Enveloped in serenity while practicing mindfulness by the lake.    ,enveloped serenity practicing mindfulness lake,0.0,Trung lập
+Chasing dreams like a kite soaring high in the vast open sky.      ,chasing dreams like kite soaring high vast open sky,0.05333333333333334,Trung lập
+Spellbound by the elegance of a ballroom dance under crystal chandeliers. ,spellbound elegance ballroom dance crystal chandeliers,0.0,Trung lập
+Whimsical delight in a world of fairy tales and magical creatures.  ,whimsical delight world fairy tales magical creatures,0.0,Trung lập
+Pensive contemplation amid the ancient ruins of a forgotten civilization. ,pensive contemplation amid ancient ruins forgotten civilization,-0.15,Tiêu cực
+Embracing the thrill of speed on a rollercoaster's exhilarating twists. ,embracing thrill speed rollercoasters exhilarating twists,0.7,Tích cực
+Harmony resonates as musicians play a melody of unity and togetherness. ,harmony resonates musicians play melody unity togetherness,0.0,Trung lập
+A burst of creativity in the quiet solitude of an artist's studio.  ,burst creativity quiet solitude artists studio,0.0,Trung lập
+Radiant joy akin to blooming flowers on a sun-kissed spring morning. ,radiant joy akin blooming flowers sunkissed spring morning,0.8,Tích cực
+A sense of wonder at the vastness of the cosmos on a stargazing night. ,sense wonder vastness cosmos stargazing night,0.0,Trung lập
+Rejuvenated by the salty breeze and the sound of waves at the seaside. ,rejuvenated salty breeze sound waves seaside,0.4,Tích cực
+Whispers of inspiration from the rustling leaves in a serene forest. ,whispers inspiration rustling leaves serene forest,0.0,Trung lập
+Savoring the warmth of a cup of cocoa on a chilly winter evening.   ,savoring warmth cup cocoa chilly winter evening,-0.6,Tiêu cực
+Heartfelt gratitude for the laughter shared during a family reunion. ,heartfelt gratitude laughter shared family reunion,0.0,Trung lập
+"Embarking on a culinary adventure, savoring exotic flavors around the world. ",embarking culinary adventure savoring exotic flavors around world,0.25,Tích cực
+Euphoria floods in as the final puzzle piece clicks into place.       ,euphoria floods final puzzle piece clicks place,0.0,Trung lập
+Awe-inspired by the grandeur of an ancient cathedral's intricate architecture. ,aweinspired grandeur ancient cathedrals intricate architecture,0.0,Trung lập
+Captivated by the ethereal beauty of a field filled with fireflies. ,captivated ethereal beauty field filled fireflies,0.4,Tích cực
+Immersed in the enchanting melodies of a street musician's violin. ,immersed enchanting melodies street musicians violin,0.0,Trung lập
+Joyful laughter resonates through a lively summer carnival.         ,joyful laughter resonates lively summer carnival,0.13636363636363635,Tích cực
+Exploring the universe within during a mindful meditation session. ,exploring universe within mindful meditation session,0.0,Trung lập
+Soaring like a free spirit on the winds of a coastal cliff.        ,soaring like free spirit winds coastal cliff,0.4,Tích cực
+Dazzled by the elegance of a masquerade ball's dazzling costumes. ,dazzled elegance masquerade balls dazzling costumes,0.75,Tích cực
+Whimsical delight in a world of whimsical fairy tales.             ,whimsical delight world whimsical fairy tales,-0.5,Tiêu cực
+Reflective contemplation amid the ruins of a forgotten era.        ,reflective contemplation amid ruins forgotten era,-0.15,Tiêu cực
+Riding the adrenaline rush on a rollercoaster's wild twists.      ,riding adrenaline rush rollercoasters wild twists,0.1,Tích cực
+Harmony resonates as musicians play a symphony of unity.           ,harmony resonates musicians play symphony unity,0.0,Trung lập
+A burst of artistic creativity in the quietude of an artist's studio. ,burst artistic creativity quietude artists studio,0.3333333333333333,Tích cực
+Radiant joy akin to blossoming flowers on a sunlit spring morning. ,radiant joy akin blossoming flowers sunlit spring morning,0.8,Tích cực
+Awe-inspired by the vastness of the cosmos on a stargazing night.   ,aweinspired vastness cosmos stargazing night,0.0,Trung lập
+"Embarking on a culinary odyssey, savoring flavors around the world. ",embarking culinary odyssey savoring flavors around world,0.0,Trung lập
+Euphoria floods in as the final puzzle piece fits perfectly.       ,euphoria floods final puzzle piece fits perfectly,0.5,Tích cực
+Awe-struck by the grandeur of an ancient cathedral's intricate architecture. ,awestruck grandeur ancient cathedrals intricate architecture,0.0,Trung lập
+Curiosity awakened by the mysteries of an ancient archaeological site. ,curiosity awakened mysteries ancient archaeological site,0.0,Trung lập
+Giddy with excitement as the first snowflakes dance from the sky. ,giddy excitement first snowflakes dance sky,0.25,Tích cực
+Contentment envelops as the aroma of freshly baked bread fills the air. ,contentment envelops aroma freshly baked bread fills air,0.3,Tích cực
+Inspired by the resilience of a lone tree standing tall in a storm. ,inspired resilience lone tree standing tall storm,0.0,Trung lập
+"Lost in the pages of a captivating novel, transported to another world. ",lost pages captivating novel transported another world,0.5,Tích cực
+Drenched in nostalgia while flipping through an old family photo album. ,drenched nostalgia flipping old family photo album,0.1,Tích cực
+Spark of inspiration ignites like a shooting star in the night sky. ,spark inspiration ignites like shooting star night sky,0.0,Trung lập
+Imbued with gratitude for the simple pleasure of a warm cup of tea. ,imbued gratitude simple pleasure warm cup tea,0.3,Tích cực
+Marveling at the kaleidoscope of colors in a vibrant street market. ,marveling kaleidoscope colors vibrant street market,0.16666666666666666,Tích cực
+Awash with serenity as the sun sets over a tranquil lakeside retreat. ,awash serenity sun sets tranquil lakeside retreat,0.0,Trung lập
+Drowning in sorrow as memories of lost love resurface.            ,drowning sorrow memories lost love resurface,0.5,Tích cực
+Numbness sets in as the weight of loneliness grows heavier.       ,numbness sets weight loneliness grows heavier,0.0,Trung lập
+"Tears fall like raindrops, mourning the end of a cherished friendship. ",tears fall like raindrops mourning end cherished friendship,0.0,Trung lập
+"Despair clouds the mind, feeling adrift in an endless sea of darkness. ",despair clouds mind feeling adrift endless sea darkness,-0.125,Tiêu cực
+"Shattered by betrayal, trust crumbles like fragile glass.          ",shattered betrayal trust crumbles like fragile glass,0.0,Trung lập
+"Aching heart, the symphony of pain plays in the silence of solitude. ",aching heart symphony pain plays silence solitude,0.0,Trung lập
+"Emotional storm, a whirlwind of sadness engulfs every thought.    ",emotional storm whirlwind sadness engulfs every thought,0.0,Trung lập
+"Haunted by regrets, the ghost of the past lingers relentlessly.   ",haunted regrets ghost past lingers relentlessly,-0.175,Tiêu cực
+"Torn apart by grief, the echoes of loss reverberate through the soul. ",torn apart grief echoes loss reverberate soul,-0.8,Tiêu cực
+"Isolation deepens, an emotional winter where warmth is but a distant memory. ",isolation deepens emotional winter warmth distant memory,-0.05,Trung lập
+"Soul-crushing disappointment, hopes shattered like fragile glass. ",soulcrushing disappointment hopes shattered like fragile glass,-0.3,Tiêu cực
+"Painful echoes of a love once cherished, now lost in the abyss of time. ",painful echoes love cherished lost abyss time,-0.09999999999999998,Trung lập
+"Heartache deepens, a solitary journey through the abyss of despair. ",heartache deepens solitary journey abyss despair,0.0,Trung lập
+"Melancholy lingers, a bittersweet serenade in the quietude of solitude. ",melancholy lingers bittersweet serenade quietude solitude,0.0,Trung lập
+"Bitterness like a poison, seeping into every crevice of the wounded heart. ",bitterness like poison seeping every crevice wounded heart,0.0,Trung lập
+"Emotional exhaustion, the weight of the world crushing weary shoulders. ",emotional exhaustion weight world crushing weary shoulders,0.2,Tích cực
+"Sorrowful echoes, a symphony of pain played by the strings of loss. ",sorrowful echoes symphony pain played strings loss,0.0,Trung lập
+"Darkness descends, engulfing the soul in the shadows of despair.  ",darkness descends engulfing soul shadows despair,0.0,Trung lập
+"Desperation whispers, the silent plea for a glimmer of hope in the abyss. ",desperation whispers silent plea glimmer hope abyss,0.0,Trung lập
+"Heart in ruins, the remnants of shattered dreams scattered in the wind. ",heart ruins remnants shattered dreams scattered wind,-0.15,Tiêu cực
+"Shattered by the echoes of a shattered dream, fragments of hope scattered. ",shattered echoes shattered dream fragments hope scattered,0.0,Trung lập
+"Avoiding the thorns of regret, walking barefoot on the path of remorse. ",avoiding thorns regret walking barefoot path remorse,0.0,Trung lập
+"In the labyrinth of grief, the walls echo with the footsteps of lost joy. ",labyrinth grief walls echo footsteps lost joy,0.0,Trung lập
+"A soul adrift in the sea of solitude, waves of loneliness crashing relentlessly. ",soul adrift sea solitude waves loneliness crashing relentlessly,0.0,Trung lập
+"The bitterness of betrayal, a taste that lingers, staining the palate of trust. ",bitterness betrayal taste lingers staining palate trust,0.0,Trung lập
+"In the ruins of hope, echoes of shattered dreams whisper tales of loss. ",ruins hope echoes shattered dreams whisper tales loss,-0.15,Tiêu cực
+"Sinking like a stone in the ocean of heartbreak, each ripple a sigh of despair. ",sinking like stone ocean heartbreak ripple sigh despair,0.0,Trung lập
+"Tears, the ink staining the pages of a journal, a testament to silent grief. ",tears ink staining pages journal testament silent grief,-0.4,Tiêu cực
+"In the wasteland of lost trust, the echoes of broken promises reverberate. ",wasteland lost trust echoes broken promises reverberate,-0.4,Tiêu cực
+"Avoiding the shards of shattered dreams, walking the tightrope of resilience. ",avoiding shards shattered dreams walking tightrope resilience,0.0,Trung lập
+"Suffocating in the silence of solitude, where echoes of laughter once thrived. ",suffocating silence solitude echoes laughter thrived,-0.5,Tiêu cực
+"Haunted by the specter of lost possibilities, a ghost that refuses to fade away. ",haunted specter lost possibilities ghost refuses fade away,0.0,Trung lập
+"In the labyrinth of despair, the echoes of a broken heart reverberate endlessly. ",labyrinth despair echoes broken heart reverberate endlessly,-0.2625,Tiêu cực
+"Sinking like autumn leaves in the river of sorrow, carried away by the current. ",sinking like autumn leaves river sorrow carried away current,0.0,Trung lập
+"In the garden of broken dreams, petals fall, a silent testimony to shattered hopes. ",garden broken dreams petals fall silent testimony shattered hopes,-0.2,Tiêu cực
+"Tears, the currency of grief, spent in the marketplace of lost love and longing. ",tears currency grief spent marketplace lost love longing,-0.13333333333333333,Tiêu cực
+"Wandering in the maze of betrayal, the walls closing in with every wrong turn. ",wandering maze betrayal walls closing every wrong turn,-0.5,Tiêu cực
+"A soul weathered by the storm of heartbreak, seeking refuge in the calm after. ",soul weathered storm heartbreak seeking refuge calm,0.30000000000000004,Tích cực
+"In the tapestry of despair, threads of hope unravel, leaving a portrait of sorrow. ",tapestry despair threads hope unravel leaving portrait sorrow,0.0,Trung lập
+"Like a withered rose in the garden of love, petals fall, a silent surrender to time. ",like withered rose garden love petals fall silent surrender time,0.3666666666666667,Tích cực
+"In the void of heartache, echoes of a love song play, each note a pang of longing. ",void heartache echoes love song play note pang longing,0.5,Tích cực
+"Nostalgia, a bittersweet dance in the moonlit ballroom of cherished memories. ",nostalgia bittersweet dance moonlit ballroom cherished memories,0.0,Trung lập
+"In the symphony of grief, each tear is a note, composing a melancholic melody. ",symphony grief tear note composing melancholic melody,-0.8,Tiêu cực
+"Betrayal, a venomous serpent slithering through the garden of trust, poisoning roots. ",betrayal venomous serpent slithering garden trust poisoning roots,0.0,Trung lập
+"Sinking in the quicksand of despair, the harder you fight, the deeper you descend. ",sinking quicksand despair harder fight deeper descend,-0.1,Tiêu cực
+"Wandering through the cemetery of lost dreams, tombstones marking untold sorrows. ",wandering cemetery lost dreams tombstones marking untold sorrows,0.0,Trung lập
+"Swept away by the river of regret, the currents of the past refusing to release. ",swept away river regret currents past refusing release,-0.25,Tiêu cực
+"Whispers of lost love linger in the attic of the heart, forgotten but not erased. ",whispers lost love linger attic heart forgotten erased,0.5,Tích cực
+"In the gallery of broken promises, each shattered vow framed, a painful exhibition. ",gallery broken promises shattered vow framed painful exhibition,-0.55,Tiêu cực
+"The echoes of solitude, a silent conversation between a soul and its shadows. ",echoes solitude silent conversation soul shadows,0.0,Trung lập
+"Dancing on sunshine, each step a celebration of the joy found in simple moments. ",dancing sunshine step celebration joy found simple moments,0.4,Tích cực
+"Laughter echoes in the air, a chorus of happiness that lifts the spirit higher. ",laughter echoes air chorus happiness lifts spirit higher,0.475,Tích cực
+"In the garden of contentment, each bloom whispers tales of inner peace and joy. ",garden contentment bloom whispers tales inner peace joy,0.4,Tích cực
+"Chasing dreams under the vibrant sky, a journey fueled by hope and enthusiasm. ",chasing dreams vibrant sky journey fueled hope enthusiasm,0.16666666666666666,Tích cực
+"Serenading the stars with a heart full of gratitude, a melody of thankfulness. ",serenading stars heart full gratitude melody thankfulness,0.35,Tích cực
+"Basking in the glow of accomplishment, each milestone a stepping stone to happiness. ",basking glow accomplishment milestone stepping stone happiness,0.7,Tích cực
+"In the dance of positivity, every step is a rhythm, uplifting the soul in harmony. ",dance positivity every step rhythm uplifting soul harmony,0.0,Trung lập
+"Overflowing with joy, a cup of laughter shared with friends, a moment cherished. ",overflowing joy cup laughter shared friends moment cherished,0.8,Tích cực
+"Draped in the warmth of kindness, a quilt of compassion stitched with love. ",draped warmth kindness quilt compassion stitched love,0.5,Tích cực
+"In the garden of friendships, each bloom a testament to the beauty of camaraderie. ",garden friendships bloom testament beauty camaraderie,0.0,Trung lập
+"In the embrace of love, each heartbeat is a melody, dancing to the rhythm of affection. ",embrace love heartbeat melody dancing rhythm affection,0.5,Tích cực
+"Surrounded by the colors of joy, a canvas painted with laughter and endless smiles. ",surrounded colors joy canvas painted laughter endless smiles,0.3375,Tích cực
+"In the symphony of excitement, each note is a burst of energy, igniting the soul with fervor. ",symphony excitement note burst energy igniting soul fervor,0.0,Trung lập
+"A surprise gift, wrapped in anticipation, unfolds a moment of delight and wonder. ",surprise gift wrapped anticipation unfolds moment delight wonder,0.0,Trung lập
+"Lost in the maze of curiosity, each twist and turn unveils the treasures of discovery. ",lost maze curiosity twist turn unveils treasures discovery,0.0,Trung lập
+"Floating on clouds of gratitude, each raindrop a blessing, a shower of thankfulness. ",floating clouds gratitude raindrop blessing shower thankfulness,0.0,Trung lập
+"Like a comet of inspiration, streaking through the sky of creativity, leaving trails of brilliance. ",like comet inspiration streaking sky creativity leaving trails brilliance,0.0,Trung lập
+"In the celebration of success, fireworks of accomplishment light up the night sky of triumph. ",celebration success fireworks accomplishment light night sky triumph,0.35,Tích cực
+"A symphony of laughter, each note a key to unlocking the door of boundless happiness. ",symphony laughter note key unlocking door boundless happiness,0.16666666666666666,Tích cực
+"In the carnival of emotions, the rollercoaster of thrill sends the heart on a wild ride. ",carnival emotions rollercoaster thrill sends heart wild ride,0.1,Tích cực
+"Standing before the grandeur of the Eiffel Tower, a moment to reflect on the beauty of Parisian dreams. ",standing grandeur eiffel tower moment reflect beauty parisian dreams,0.0,Trung lập
+"Lost in the enchantment of Disneyland, each ride a journey into the realm of childhood fantasies. ",lost enchantment disneyland ride journey realm childhood fantasies,0.0,Trung lập
+"Exploring the wonders of Ferrari World, the roar of engines creating a symphony of speed. ",exploring wonders ferrari world roar engines creating symphony speed,0.0,Trung lập
+"Amidst the tulip fields of Keukenhof, a tapestry of colors that paints the soul with springtime joy. ",amidst tulip fields keukenhof tapestry colors paints soul springtime joy,0.8,Tích cực
+"Wandering through the historical streets of Kyoto, each step a journey into the heart of Japan's traditions. ",wandering historical streets kyoto step journey heart japans traditions,0.0,Trung lập
+"In the embrace of the Grand Canyon, nature's masterpiece, a moment to marvel at Earth's grandeur. ",embrace grand canyon natures masterpiece moment marvel earths grandeur,0.5,Tích cực
+"Journeying through the serenity of Santorini, where each sunset paints the sky with hues of tranquility. ",journeying serenity santorini sunset paints sky hues tranquility,0.0,Trung lập
+"Amazed by the architectural marvels of Petra, each stone telling tales of an ancient civilization. ",amazed architectural marvels petra stone telling tales ancient civilization,0.0,Trung lập
+"Embarking on a gondola ride in Venice, each canal reflecting the romance of this timeless city. ",embarking gondola ride venice canal reflecting romance timeless city,0.0,Trung lập
+"At the summit of Machu Picchu, a breathtaking panorama that whispers the secrets of ancient civilizations. ",summit machu picchu breathtaking panorama whispers secrets ancient civilizations,1.0,Tích cực
+"In the heart of New York City, Times Square dazzles with lights, a vibrant spectacle of urban energy. ",heart new york city times square dazzles lights vibrant spectacle urban energy,0.101010101010101,Tích cực
+"Captivated by the historical charm of the Colosseum, each stone echoing tales of gladiator valor. ",captivated historical charm colosseum stone echoing tales gladiator valor,0.0,Trung lập
+"Sailing the azure waters of the Maldives, each wave a whisper of serenity in paradise. ",sailing azure waters maldives wave whisper serenity paradise,0.0,Trung lập
+"In the midst of the Amazon rainforest, a symphony of wildlife creates an orchestra of nature's wonders. ",midst amazon rainforest symphony wildlife creates orchestra natures wonders,0.0,Trung lập
+"Walking the Great Wall of China, each step a testament to ancient engineering marvels. ",walking great wall china step testament ancient engineering marvels,0.8,Tích cực
+"At the summit of Mount Fuji, a breathtaking sunrise that paints the sky with hues of accomplishment. ",summit mount fuji breathtaking sunrise paints sky hues accomplishment,1.0,Tích cực
+"Exploring the ancient ruins of Angkor Wat, each stone whispering stories of Khmer civilization. ",exploring ancient ruins angkor wat stone whispering stories khmer civilization,-0.15,Tiêu cực
+"Skiing down the slopes of the Swiss Alps, each turn a dance with the majesty of snow-capped peaks. ",skiing slopes swiss alps turn dance majesty snowcapped peaks,0.0,Trung lập
+"In the tranquility of Kyoto's bamboo forest, whispers of ancient Zen wisdom echo through the groves. ",tranquility kyotos bamboo forest whispers ancient zen wisdom echo groves,0.0,Trung lập
+"Cruising the fjords of Norway, each icy landscape a breathtaking masterpiece of nature's grandeur. ",cruising fjords norway icy landscape breathtaking masterpiece natures grandeur,0.45,Tích cực
+"At the front row of Adele's concert, each note of 'Someone Like You' resonates with soul-stirring emotion. ",front row adeles concert note someone like resonates soulstirring emotion,0.0,Trung lập
+"Dancing under the stars at Beyoncé's live show, feeling the power of 'Single Ladies' in every move. ",dancing stars beyoncés live show feeling power single ladies every move,0.032467532467532464,Trung lập
+"In the crowd of a Taylor Swift concert, the lyrics of 'Love Story' create an enchanting fairy tale. ",crowd taylor swift concert lyrics love story create enchanting fairy tale,0.5,Tích cực
+"Rocking out to the guitar solos at a Queen tribute concert, a journey back in time with Freddie's spirit. ",rocking guitar solos queen tribute concert journey back time freddies spirit,0.0,Trung lập
+"Swaying to Ed Sheeran's acoustic melodies, a serene evening filled with 'Perfect' moments. ",swaying ed sheerans acoustic melodies serene evening filled perfect moments,0.7,Tích cực
+"Immersed in the pulsating beats of a Bruno Mars concert, where 'Uptown Funk' becomes a city of joy. ",immersed pulsating beats bruno mars concert uptown funk becomes city joy,0.8,Tích cực
+"At a Michael Jackson tribute show, moonwalking through the hits, a celebration of the King of Pop. ",michael jackson tribute show moonwalking hits celebration king pop,0.0,Trung lập
+"Swinging to the rhythms of a Frank Sinatra tribute, feeling the timeless charm of 'Fly Me to the Moon'. ",swinging rhythms frank sinatra tribute feeling timeless charm fly moon,0.8,Tích cực
+"In the mosh pit of a Metallica concert, the thunderous chords create a symphony of headbanging ecstasy. ",mosh pit metallica concert thunderous chords create symphony headbanging ecstasy,0.0,Trung lập
+"Experiencing the magic of a Coldplay concert, where 'Fix You' becomes a beacon of hope in the night. ",experiencing magic coldplay concert fix becomes beacon hope night,0.5,Tích cực
+"At a Justin Bieber concert, the infectious beats of 'Baby' create a dance floor of unbridled enthusiasm. ",justin bieber concert infectious beats baby create dance floor unbridled enthusiasm,0.0,Trung lập
+"In the spotlight at a Lady Gaga show, each costume change is a metamorphosis of creativity and artistry. ",spotlight lady gaga show costume change metamorphosis creativity artistry,0.0,Trung lập
+"Immersed in the soulful melodies of Adele, tears flow freely, moved by the emotion of 'Hello'. ",immersed soulful melodies adele tears flow freely moved emotion hello,0.4,Tích cực
+"Drenched in confetti at a Katy Perry concert, a kaleidoscope of colors igniting the night sky. ",drenched confetti katy perry concert kaleidoscope colors igniting night sky,0.0,Trung lập
+"In the audience of a Jay-Z performance, the lyrics of 'Empire State of Mind' become an anthem of pride. ",audience jayz performance lyrics empire state mind become anthem pride,0.0,Trung lập
+"Dancing to Shakira's rhythmic beats, hips swaying to the hypnotic charm of 'Hips Don't Lie'. ",dancing shakiras rhythmic beats hips swaying hypnotic charm hips dont lie,0.0,Trung lập
+"At a U2 concert, the anthemic chords of 'With or Without You' create a timeless moment of connection. ",u concert anthemic chords without create timeless moment connection,0.0,Trung lập
+"Rocking out at a Guns N' Roses show, the iconic riffs of 'Sweet Child o' Mine' echoing in the night. ",rocking guns n roses show iconic riffs sweet child mine echoing night,0.425,Tích cực
+"In the crowd of an Ariana Grande concert, the high notes of 'Into You' create a euphoric symphony. ",crowd ariana grande concert high notes create euphoric symphony,0.16,Tích cực
+"Swaying to the reggae vibes of Bob Marley's tribute concert, each chord a journey to Jamaica's soul. ",swaying reggae vibes bob marleys tribute concert chord journey jamaicas soul,0.0,Trung lập
+"Captivated by the spellbinding plot twists, the audience applauds, experiencing a rollercoaster of emotions at the movie premiere. ",captivated spellbinding plot twists audience applauds experiencing rollercoaster emotions movie premiere,0.0,Trung lập
+"As the credits roll, a profound sense of nostalgia washes over, reminiscent of cherished moments in classic films. ",credits roll profound sense nostalgia washes reminiscent cherished moments classic films,0.08333333333333333,Trung lập
+"Streaming the latest web series, the viewer is engrossed in the characters' journey, feeling a sense of connection and empathy. ",streaming latest web series viewer engrossed characters journey feeling sense connection empathy,0.5,Tích cực
+"At the film festival, the indie filmmaker's creation receives a standing ovation, evoking pride and a sense of accomplishment. ",film festival indie filmmakers creation receives standing ovation evoking pride sense accomplishment,0.0,Trung lập
+"Watching a heartwarming family drama, tears flow freely as the characters overcome challenges, leaving the viewer with a warm glow. ",watching heartwarming family drama tears flow freely characters overcome challenges leaving viewer warm glow,0.5,Tích cực
+"At the Oscars, the actor graciously accepts an award, radiating joy and gratitude for the recognition of their outstanding performance. ",oscars actor graciously accepts award radiating joy gratitude recognition outstanding performance,0.65,Tích cực
+"Discovering a hidden gem in the world of documentaries, the viewer is enlightened and inspired, feeling a renewed sense of curiosity. ",discovering hidden gem world documentaries viewer enlightened inspired feeling renewed sense curiosity,-0.16666666666666666,Tiêu cực
+"As the movie credits roll, the viewer experiences a mix of awe and contemplation, pondering the deeper meanings woven into the storyline. ",movie credits roll viewer experiences mix awe contemplation pondering deeper meanings woven storyline,0.0,Trung lập
+"Binge-watching a thrilling crime series, the suspense keeps the viewer on the edge of their seat, creating a rush of adrenaline. ",bingewatching thrilling crime series suspense keeps viewer edge seat creating rush adrenaline,0.25,Tích cực
+"As the closing scene unfolds, a sense of satisfaction washes over, completing the cinematic journey with a profound and fulfilling ending. ",closing scene unfolds sense satisfaction washes completing cinematic journey profound fulfilling ending,0.041666666666666664,Trung lập
+"Celebrating a historic victory in the World Cup, the nation erupts in joy, united by the triumph of their football team. ",celebrating historic victory world cup nation erupts joy united triumph football team,0.4,Tích cực
+"At the Olympics, the athlete's perseverance shines through, earning a gold medal and inspiring a generation with their remarkable achievement. ",olympics athletes perseverance shines earning gold medal inspiring generation remarkable achievement,0.625,Tích cực
+"In the cricket championship, a nail-biting finish leaves fans on the edge of their seats, experiencing a rollercoaster of emotions. ",cricket championship nailbiting finish leaves fans edge seats experiencing rollercoaster emotions,0.0,Trung lập
+"Witnessing a record-breaking marathon, spectators are filled with awe and admiration for the endurance and dedication of the runners. ",witnessing recordbreaking marathon spectators filled awe admiration endurance dedication runners,0.4,Tích cực
+"In the tennis grand slam, a fierce rivalry unfolds, captivating fans with a display of skill and sportsmanship on the world stage. ",tennis grand slam fierce rivalry unfolds captivating fans display skill sportsmanship world stage,0.5,Tích cực
+"Cheering for the underdog in the basketball finals, the crowd erupts in applause as the team defies odds to claim the championship title. ",cheering underdog basketball finals crowd erupts applause team defies odds claim championship title,0.0,Trung lập
+"At the golf tournament, the golfer's precision and focus lead to a stunning victory, leaving spectators in awe of their exceptional skill. ",golf tournament golfers precision focus lead stunning victory leaving spectators awe exceptional skill,0.5833333333333333,Tích cực
+"Experiencing the thrill of a high-speed Formula 1 race, fans are on the edge of their seats as drivers compete for the championship. ",experiencing thrill highspeed formula race fans edge seats drivers compete championship,0.0,Trung lập
+"In the cycling world championship, the climber conquers challenging terrains, symbolizing determination and achievement against all odds. ",cycling world championship climber conquers challenging terrains symbolizing determination achievement odds,0.5,Tích cực
+"Witnessing a heartwarming comeback in the hockey finals, fans share tears of joy as the team secures a historic victory after adversity. ",witnessing heartwarming comeback hockey finals fans share tears joy team secures historic victory adversity,0.4,Tích cực
+"After a series of defeats, the soccer team faces disappointment, struggling to find the silver lining in a challenging season. ",series defeats soccer team faces disappointment struggling find silver lining challenging season,-0.04999999999999999,Trung lập
+"In the tennis tournament, a highly anticipated player experiences a setback, leaving fans in shock and questioning the unforeseen turn of events. ",tennis tournament highly anticipated player experiences setback leaving fans shock questioning unforeseen turn events,0.16,Tích cực
+"Facing a defeat in the championship, the boxer reflects on the challenges, vowing to return stronger and more determined in the next bout. ",facing defeat championship boxer reflects challenges vowing return stronger determined next bout,0.0,Trung lập
+"In the midst of a cycling race, a tire blowout leads to frustration for the cyclist, who valiantly tries to overcome the unexpected obstacle. ",midst cycling race tire blowout leads frustration cyclist valiantly tries overcome unexpected obstacle,0.0,Trung lập
+"The gymnast's unexpected fall during a routine sparks a wave of sympathy from the audience, highlighting the vulnerability of sports. ",gymnasts unexpected fall routine sparks wave sympathy audience highlighting vulnerability sports,0.1,Tích cực
+"In the golf tournament, a missed crucial putt results in defeat, causing the golfer to reflect on the pressure of high-stakes competition. ",golf tournament missed crucial putt results defeat causing golfer reflect pressure highstakes competition,0.0,Trung lập
+"Experiencing a series of losses in the basketball season, the team grapples with frustration, determined to turn the tide with renewed effort. ",experiencing series losses basketball season team grapples frustration determined turn tide renewed effort,0.0,Trung lập
+"Despite meticulous training, the swimmer faces disappointment as a split-second miscalculation costs them the lead in a crucial race. ",despite meticulous training swimmer faces disappointment splitsecond miscalculation costs lead crucial race,-0.3,Tiêu cực
+"The weightlifter's failed attempt at a personal record results in frustration, highlighting the challenging nature of pushing physical limits. ",weightlifters failed attempt personal record results frustration highlighting challenging nature pushing physical limits,0.0,Trung lập
+"In the midst of a soccer match, an unexpected own goal creates a moment of despair for the player, as teammates console and encourage them. ",midst soccer match unexpected goal creates moment despair player teammates console encourage,0.1,Tích cực
+"In the serene beauty of a sunset, nature unfolds a canvas of colors, evoking a sense of tranquility and wonder. ",serene beauty sunset nature unfolds canvas colors evoking sense tranquility wonder,0.0,Trung lập
+"Embarking on a spontaneous road trip, the traveler discovers hidden gems, creating memories that will be cherished for a lifetime. ",embarking spontaneous road trip traveler discovers hidden gems creating memories cherished lifetime,0.21666666666666667,Tích cực
+"Amidst the bustling city, a quiet café becomes a sanctuary for reflection, where a cup of coffee brings solace to the wandering mind. ",amidst bustling city quiet café becomes sanctuary reflection cup coffee brings solace wandering mind,0.0,Trung lập
+"Exploring the vibrant street art of a cultural neighborhood, each mural tells a story, infusing the city with creativity and expression. ",exploring vibrant street art cultural neighborhood mural tells story infusing city creativity expression,0.13333333333333333,Tích cực
+"In the world of science, a breakthrough discovery unfolds, pushing the boundaries of knowledge and opening new frontiers of exploration. ",world science breakthrough discovery unfolds pushing boundaries knowledge opening new frontiers exploration,0.13636363636363635,Tích cực
+"Connecting with the melody of a live orchestra, the music enthusiast experiences a symphony that resonates deep within the soul. ",connecting melody live orchestra music enthusiast experiences symphony resonates deep within soul,0.06818181818181818,Trung lập
+"Embracing the aroma of freshly baked bread, the home chef finds joy in the art of baking, creating delicious memories for loved ones. ",embracing aroma freshly baked bread home chef finds joy art baking creating delicious memories loved ones,0.7,Tích cực
+"Wandering through a historical museum, the history enthusiast becomes immersed in the tales of the past, envisioning bygone eras. ",wandering historical museum history enthusiast becomes immersed tales past envisioning bygone eras,-0.125,Tiêu cực
+"In the realm of literature, a captivating novel transports the reader to distant lands, weaving a tapestry of imagination and escape. ",realm literature captivating novel transports reader distant lands weaving tapestry imagination escape,0.2,Tích cực
+"Capturing the essence of a bustling market, the photographer freezes moments in time, each frame telling a unique and vibrant story. ",capturing essence bustling market photographer freezes moments time frame telling unique vibrant story,0.2708333333333333,Tích cực
+"Underneath the city lights, the dancer expresses emotions through graceful movements, creating a mesmerizing performance under the night sky. ",underneath city lights dancer expresses emotions graceful movements creating mesmerizing performance night sky,0.3,Tích cực
+"In the heart of a bustling market, the street food connoisseur indulges in a culinary adventure, savoring diverse flavors and aromas. ",heart bustling market street food connoisseur indulges culinary adventure savoring diverse flavors aromas,0.0,Trung lập
+"As the first snowflake descends, the winter enthusiast eagerly prepares for a season of frosty delights, anticipating the magic of snow-covered landscapes. ",first snowflake descends winter enthusiast eagerly prepares season frosty delights anticipating magic snowcovered landscapes,0.375,Tích cực
+"Amidst the pages of a captivating mystery novel, the reader unravels clues and secrets, experiencing a thrilling journey of suspense and revelation. ",amidst pages captivating mystery novel reader unravels clues secrets experiencing thrilling journey suspense revelation,0.375,Tích cực
+"Surrounded by the vibrant colors of a flower garden, the gardener nurtures blossoms, finding joy in the beauty of nature's ever-changing canvas. ",surrounded vibrant colors flower garden gardener nurtures blossoms finding joy beauty natures everchanging canvas,0.48333333333333334,Tích cực
+"At the astronomy observatory, the stargazer marvels at the vastness of the cosmos, contemplating the mysteries hidden within the celestial expanse. ",astronomy observatory stargazer marvels vastness cosmos contemplating mysteries hidden within celestial expanse,-0.16666666666666666,Tiêu cực
+"Engulfed in the aroma of freshly brewed coffee, the writer finds inspiration in every sip, embarking on a journey of creativity and prose. ",engulfed aroma freshly brewed coffee writer finds inspiration every sip embarking journey creativity prose,0.3,Tích cực
+"In the realm of fashion, the designer unveils a collection that tells a story, blending innovation and tradition on the runway of creativity. ",realm fashion designer unveils collection tells story blending innovation tradition runway creativity,0.0,Trung lập
+"As the waves crash against the shore, the surfer embraces the thrill of riding the ocean's energy, capturing the essence of freedom in each wave. ",waves crash shore surfer embraces thrill riding oceans energy capturing essence freedom wave,0.0,Trung lập
+"Exploring the historical architecture of an ancient city, the traveler is transported to a bygone era, where each monument whispers tales of the past. ",exploring historical architecture ancient city traveler transported bygone era monument whispers tales past,-0.125,Tiêu cực
+Successfully avoided eye contact with my crush in the hallway. Mission accomplished. #TeenCrush #StealthMode ,successfully avoided eye contact crush hallway mission accomplished,0.475,Tích cực
+Ran out of snacks during a movie marathon. Crisis level: Emergency! #MovieNightStruggles #TeenProblems ,ran snacks movie marathon crisis level emergency,0.0,Trung lập
+Spent an hour choosing the perfect filter for a selfie. The struggle for that Instagram aesthetic is real. #SelfieQueen #TeenVibes ,spent hour choosing perfect filter selfie struggle instagram aesthetic real,0.3666666666666667,Tích cực
+Lost my headphones again. How do they vanish into thin air? #HeadphoneMystery #TeenLife ,lost headphones vanish thin air,-0.4,Tiêu cực
+Decided to study for exams but ended up making memes about studying instead. Procrastination level: Expert. #ProcrastinationNation #TeenConfessions ,decided study exams ended making memes studying instead procrastination level expert,0.0,Trung lập
+"Got dressed for the day, then remembered it's Saturday. Oops. #WeekendVibes #TeenStruggles ",got dressed day remembered saturday oops,0.0,Trung lập
+Survived a group project without any drama. Miracles do happen. #GroupProjectSuccess #TeenAchievements ,survived group project without drama miracles happen,0.0,Trung lập
+"Entered the kitchen with the intention to cook. Left with a bag of chips. Cooking is overrated, anyway. #MasterChefInTraining #TeenHumor ",entered kitchen intention cook left bag chips cooking overrated anyway,0.0,Trung lập
+"Staring at the clock in class, waiting for the bell to ring like it's the most exciting event of the day. #ClassCountdown #TeenLife ",staring clock class waiting bell ring like exciting event day,0.3,Tích cực
+"Discovered a new book series and spent the whole night reading. Who needs sleep, anyway? #BookwormLife #LateNightReading ",discovered new book series spent whole night reading needs sleep anyway,0.07878787878787878,Trung lập
+"Bought a new video game, played for hours, forgot to eat. The ultimate gaming session. #GamerLife #NoFoodGaming ",bought new video game played hours forgot eat ultimate gaming session,-0.08787878787878789,Trung lập
+Spent the day binge-watching a new series. Productivity level: Zero. #LazyDay #TVSeriesMarathon ,spent day bingewatching new series productivity level zero,0.018181818181818174,Trung lập
+Caught up on the latest fashion trends and now planning a shopping spree. #Fashionista #TrendyTeen ,caught latest fashion trends planning shopping spree,0.5,Tích cực
+Decided to learn a new instrument. Day one: Still trying to figure out how to hold it. #MusicNovice #LearningJourney ,decided learn new instrument day one still trying figure hold,0.13636363636363635,Tích cực
+Spent hours creating the perfect playlist for every mood. Music is my therapy. #PlaylistMaker #TeenMusicLover ,spent hours creating perfect playlist every mood music therapy,0.45,Tích cực
+Successfully cooked a gourmet meal for the family. Chef skills unlocked! #ChefMode #TeenChef ,successfully cooked gourmet meal family chef skills unlocked,0.75,Tích cực
+Spontaneously booked a weekend getaway. Adventure awaits! #TravelBug #WeekendEscape ,spontaneously booked weekend getaway adventure awaits,0.6,Tích cực
+Attended a concert and danced the night away. Music is the heartbeat of life. #ConcertVibes #DanceAllNight ,attended concert danced night away music heartbeat life,0.0,Trung lập
+Rediscovered childhood cartoons and had a nostalgia-filled marathon. #CartoonNostalgia #TeenMemories ,rediscovered childhood cartoons nostalgiafilled marathon,0.0,Trung lập
+Embarked on a DIY home decor project. Let's hope it turns out better than last time. #DIYAdventure #TeenHomeDecor ,embarked diy home decor project lets hope turns better last time,0.25,Tích cực
+"Spent the afternoon at a museum, pretending to be cultured. Art enthusiast in the making. #MuseumDay #TeenArtLover ",spent afternoon museum pretending cultured art enthusiast making,-0.1,Tiêu cực
+Started a blog about random thoughts and musings. Blogging is the new diary. #BloggerLife #TeenBlogger ,started blog random thoughts musings blogging new diary,-0.18181818181818182,Tiêu cực
+Relishing a peaceful afternoon with a classic novel. Quiet moments are the best moments. #BookLover #PeacefulAfternoon ,relishing peaceful afternoon classic novel quiet moments best moments,0.35416666666666663,Tích cực
+"Reflecting on a lifetime of memories, each wrinkle tells a story. Embracing the beauty of aging. #LifeReflections #BeautyInAging ",reflecting lifetime memories wrinkle tells story embracing beauty aging,0.0,Trung lập
+Exploring the world of digital art. It's never too late to discover new passions. #DigitalArtistry #LateBloomer ,exploring world digital art never late discover new passions,0.09545454545454546,Trung lập
+Savoring the flavors of a home-cooked meal. Simple joys are the heart of happiness. #HomeCooking #SimpleJoys ,savoring flavors homecooked meal simple joys heart happiness,0.35,Tích cực
+Embarking on a journey of learning a new language. The mind stays young with every new word. #LanguageLearning #NeverTooLate ,embarking journey learning new language mind stays young every new word,0.12424242424242422,Tích cực
+"Attended a classical music concert, feeling the timeless melodies resonate. Music transcends generations. #ClassicalMusic #TimelessMelodies ",attended classical music concert feeling timeless melodies resonate music transcends generations,0.0,Trung lập
+Capturing the beauty of nature through photography. Every snapshot is a treasure. #NaturePhotography #SeniorPhotographer ,capturing beauty nature photography every snapshot treasure,0.0,Trung lập
+"Reconnecting with old friends over a cup of tea. Friendship, the true essence of companionship. #OldFriends #Companionship ",reconnecting old friends cup tea friendship true essence companionship,0.22499999999999998,Tích cực
+"Embarked on a road trip to revisit cherished places from the past. Nostalgia, the ultimate travel companion. #RoadTrip #NostalgiaTour ",embarked road trip revisit cherished places past nostalgia ultimate travel companion,-0.125,Tiêu cực
+"Joined a community choir, harmonizing with fellow voices. Music creates bonds that withstand time. #CommunityChoir #HarmonyInAging ",joined community choir harmonizing fellow voices music creates bonds withstand time,0.0,Trung lập
+"Exploring the art of meditation, finding tranquility in the stillness of the mind. #MeditationJourney #TranquilMind ",exploring art meditation finding tranquility stillness mind,0.0,Trung lập
+"Taking a stroll in the garden, appreciating the beauty of blooming flowers. Nature's wonders never cease. #GardenWalk #FloralBeauty ",taking stroll garden appreciating beauty blooming flowers natures wonders never cease,0.0,Trung lập
+"Sipping on a favorite vintage wine, each sip telling a story of the years gone by. Cheers to a life well-lived. #WineLover #VintageCheers ",sipping favorite vintage wine sip telling story years gone cheers life welllived,0.5,Tích cực
+"Participated in a community art class, unleashing creativity in the golden years. Art has no age limit. #ArtClass #SeniorArtistry ",participated community art class unleashing creativity golden years art age limit,0.3,Tích cực
+"Embarking on a journey of writing a memoir, documenting a lifetime of experiences. Every story matters. #MemoirWriting #SeniorStories ",embarking journey writing memoir documenting lifetime experiences every story matters,0.0,Trung lập
+"Attended a lecture on history, always fascinated by the lessons from the past. Learning is a lifelong adventure. #HistoryLecture #SeniorLearning ",attended lecture history always fascinated lessons past learning lifelong adventure,-0.175,Tiêu cực
+"Rediscovered the joy of cooking traditional family recipes. The kitchen, a place of cherished memories. #FamilyRecipes #SeniorCooking ",rediscovered joy cooking traditional family recipes kitchen place cherished memories,0.4,Tích cực
+"Joined a nature photography club, capturing the beauty of the great outdoors. Every click is a connection to nature. #NaturePhotography #SeniorPhotographer ",joined nature photography club capturing beauty great outdoors every click connection nature,0.8,Tích cực
+"Attended a jazz concert and swayed to the rhythm of timeless tunes. Music, a constant companion in the golden years. #JazzConcert #SeniorMusic ",attended jazz concert swayed rhythm timeless tunes music constant companion golden years,0.15,Tích cực
+"Joined a writing group, penning down thoughts and reflections. Writing, a journey into the depths of the soul. #WritingGroup #SeniorWriter ",joined writing group penning thoughts reflections writing journey depths soul,0.0,Trung lập
+"Embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #SoloTravel #SeniorExplorer ",embarked solo travel adventure discovering beauty new places pace,0.13636363636363635,Tích cực
+"Attended a vintage car show, reminiscing about the classics that once ruled the roads. Nostalgia in every rev. #VintageCars #ClassicRides ",attended vintage car show reminiscing classics ruled roads nostalgia every rev,0.0,Trung lập
+"Started a community garden, growing not just plants but friendships too. Green thumbs unite! #CommunityGarden #SeniorGardener ",started community garden growing plants friendships green thumbs unite,-0.2,Tiêu cực
+"Hosted a family dinner, where laughter echoed louder than the clinking of utensils. Family, the heart of happiness. #FamilyDinner #SeniorHost ",hosted family dinner laughter echoed louder clinking utensils family heart happiness,0.7,Tích cực
+"Enrolled in a dance class for seniors, moving to the rhythm of life. Age is just a number on the dance floor. #DanceClass #SeniorDancer ",enrolled dance class seniors moving rhythm life age number dance floor,0.0,Trung lập
+"Visited an art gallery, appreciating the brushstrokes that tell tales of creativity. Art, an eternal companion. #ArtGallery #SeniorArtLover ",visited art gallery appreciating brushstrokes tell tales creativity art eternal companion,0.0,Trung lập
+"Started a book club for seniors, where discussions are as lively as the characters in the novels. #BookClub #SeniorReaders ",started book club seniors discussions lively characters novels,0.13636363636363635,Tích cực
+"Hosted a picnic in the park, basking in the warmth of friendship and sunshine. Simple joys, timeless memories. #ParkPicnic #SeniorJoy ",hosted picnic park basking warmth friendship sunshine simple joys timeless memories,0.0,Trung lập
+"Participated in a local theater production, proving that the stage belongs to every age. #TheaterProduction #SeniorActor ",participated local theater production proving stage belongs every age,0.0,Trung lập
+"Embarked on a hiking adventure, conquering trails and relishing the beauty of nature. Age is just a number on the mountaintop. #HikingAdventure #SeniorHiker ",embarked hiking adventure conquering trails relishing beauty nature age number mountaintop,0.0,Trung lập
+Hosted a photography exhibition featuring snapshots of a life well-lived. Every photo has a story to tell. #PhotographyExhibition #SeniorPhotographer ,hosted photography exhibition featuring snapshots life welllived every photo story tell,0.0,Trung lập
+"Joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #CyclingClub #SeniorCyclist ",joined seniors cycling club feeling wind hair freedom open road,0.0,Trung lập
+"Attended a wine tasting event, savoring the richness of flavors that age like fine wine. Cheers to the golden years! #WineTasting #SeniorWineLover ",attended wine tasting event savoring richness flavors age like fine wine cheers golden years,0.35833333333333334,Tích cực
+"Started learning ballroom dancing, gliding gracefully across the dance floor. Ageless elegance in every step. #BallroomDancing #SeniorDancer ",started learning ballroom dancing gliding gracefully across dance floor ageless elegance every step,0.0,Trung lập
+"Organized a community painting event, turning blank canvases into a masterpiece of shared creativity. #PaintingEvent #SeniorArtist ",organized community painting event turning blank canvases masterpiece shared creativity,0.0,Trung lập
+"Hosted a 'memory lane' evening with old friends, reminiscing about the adventures that shaped our lives. #MemoryLane #SeniorReminiscing ",hosted memory lane evening old friends reminiscing adventures shaped lives,0.1,Tích cực
+"Joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #AstronomyClub #SeniorStargazer ",joined seniors astronomy club stargazing finding wonder vastness cosmos,0.0,Trung lập
+"Attended a local jazz festival, tapping toes to the tunes that have stood the test of time. Music, a lifelong love affair. #JazzFestival #SeniorMusicLover ",attended local jazz festival tapping toes tunes stood test time music lifelong love affair,0.13333333333333333,Tích cực
+"Started a blog sharing the wisdom gained through the years, proving that every day is a chance to learn and grow. #SeniorWisdom #Blog ",started blog sharing wisdom gained years proving every day chance learn grow,0.0,Trung lập
+"Participated in a charity run, proving that age is no barrier to supporting meaningful causes. #CharityRun #SeniorRunner ",participated charity run proving age barrier supporting meaningful causes,0.375,Tích cực
+"Survived a challenging physics exam. Equations, you won't defeat me! ",survived challenging physics exam equations wont defeat,0.5,Tích cực
+Exploring the world of coding. Debugging is an adventure on its own! #CodingJourney #HighSchoolCoder ,exploring world coding debugging adventure,0.0,Trung lập
+"Joined the school debate team. Words are my weapons, and I'm ready for battle! ",joined school debate team words weapons im ready battle,0.2,Tích cực
+"Started a photography club at school. Capturing moments, one snapshot at a time! ",started photography club school capturing moments one snapshot time,0.0,Trung lập
+"Daydreaming about the upcoming prom. The dress, the dance – it's a fairytale in the making! ",daydreaming upcoming prom dress dance fairytale making,0.0,Trung lập
+Convinced the teacher to have class outdoors. Learning equations with a side of fresh air! ,convinced teacher class outdoors learning equations side fresh air,0.3,Tích cực
+"Accidentally spilled paint in art class. Abstract art, right? #ArtClassAdventures #HighSchoolArtist ",accidentally spilled paint art class abstract art right,0.2857142857142857,Tích cực
+Trying to master the perfect kickflip on my skateboard. Skating into the weekend like a pro! ,trying master perfect kickflip skateboard skating weekend like pro,1.0,Tích cực
+Bonding with friends over the latest K-pop sensation. Fangirling at its finest! ,bonding friends latest kpop sensation fangirling finest,0.5,Tích cực
+Spent hours perfecting a chemistry experiment. Mixing potions like a wizard! ,spent hours perfecting chemistry experiment mixing potions like wizard,-0.1,Tiêu cực
+Successfully organized a surprise birthday party for a friend. Party planning expert mode: Achieved! ,successfully organized surprise birthday party friend party planning expert mode achieved,0.75,Tích cực
+"Joined the drama club to unleash my inner actor. Lights, camera, action! ",joined drama club unleash inner actor lights camera action,0.05,Trung lập
+Got my hands on the latest fantasy novel. Diving into realms of magic and adventure! ,got hands latest fantasy novel diving realms magic adventure,0.5,Tích cực
+Mastering the art of the perfect doodle during boring classes. Doodles: A+! ,mastering art perfect doodle boring classes doodles,0.0,Trung lập
+Attempting to break the school record for the longest handstand. Wish me luck! ,attempting break school record longest handstand wish luck,0.0,Trung lập
+Sneaking snacks into class like a pro. The art of snack-smuggling is a sacred skill! ,sneaking snacks class like pro art snacksmuggling sacred skill,0.0,Trung lập
+Hosting a sleepover with friends this weekend. Preparing for a night of laughter and memories! ,hosting sleepover friends weekend preparing night laughter memories,0.0,Trung lập
+"Spent hours on a TikTok dance, only to realize I have two left feet. Dance fail: Unleashed! ",spent hours tiktok dance realize two left feet dance fail unleashed,-0.19999999999999998,Tiêu cực
+Accidentally liked my crush's old photo while stalking their profile. Awkward level: Maximum! ,accidentally liked crushs old photo stalking profile awkward level maximum,0.033333333333333326,Trung lập
+Tried to impress my crush with a smooth conversation. Ended up spilling my drink. Smooth level: Nonexistent! ,tried impress crush smooth conversation ended spilling drink smooth level nonexistent,0.4,Tích cực
+Mastered the art of creating paper airplanes during lecture. Paper planes: Soaring to new heights! ,mastered art creating paper airplanes lecture paper planes soaring new heights,0.13636363636363635,Tích cực
+Trying to set a new trend by juggling textbooks between classes. Academic juggling: A unique skill! ,trying set new trend juggling textbooks classes academic juggling unique skill,0.17045454545454544,Tích cực
+Hiding a snack stash in my backpack for emergency cravings. Snack ninja mode: Activated! ,hiding snack stash backpack emergency cravings snack ninja mode activated,0.0,Trung lập
+Planning a surprise scavenger hunt for friends. Anticipating the thrill and excitement! ,planning surprise scavenger hunt friends anticipating thrill excitement,0.0,Trung lập
+Danced in the rain to celebrate the end of exams. Rain dance: Unexpectedly refreshing! ,danced rain celebrate end exams rain dance unexpectedly refreshing,0.5,Tích cực
+Accidentally sent a text meant for a friend to the class group chat. Texting fail: Oops moment! ,accidentally sent text meant friend class group chat texting fail oops moment,-0.5,Tiêu cực
+Tried a magic trick to impress classmates. Magic fail: Where did that rabbit go? ,tried magic trick impress classmates magic fail rabbit go,0.16666666666666666,Tích cực
+Perfecting the art of creating origami during a dull lecture. Origami mastery: A+! ,perfecting art creating origami dull lecture origami mastery,-0.2916666666666667,Tiêu cực
+Attempting to set a new record for the most consecutive hacky sack kicks. Hacky sack skills: Unleashed! ,attempting set new record consecutive hacky sack kicks hacky sack skills unleashed,0.13636363636363635,Tích cực
+Creating a secret handshake with friends. Friendship level: Expert! ,creating secret handshake friends friendship level expert,-0.4,Tiêu cực
+Embarking on a mission to find the best burger joint in town. Burger connoisseur: Reporting for duty! ,embarking mission find best burger joint town burger connoisseur reporting duty,1.0,Tích cực
+Practicing a stand-up comedy routine for the upcoming talent show. Comedy gig: In the making! ,practicing standup comedy routine upcoming talent show comedy gig making,0.0,Trung lập
+Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment! ,accidentally sent love letter wrong person love note fail maximum embarrassment,0.0,Trung lập
+Attempting to impress the teacher with an elaborate science experiment. Science geek mode: Activated! ,attempting impress teacher elaborate science experiment science geek mode activated,0.5,Tích cực
+Crafting intricate friendship bracelets for the whole squad. Friendship level: Expert weaver! ,crafting intricate friendship bracelets whole squad friendship level expert weaver,0.2,Tích cực
+Attempting to beat the record for the most consecutive cartwheels. Cartwheel challenge: Underway! ,attempting beat record consecutive cartwheels cartwheel challenge underway,0.0,Trung lập
+Organizing a movie marathon with friends. Popcorn and cinematic adventures await! ,organizing movie marathon friends popcorn cinematic adventures await,0.0,Trung lập
+Experimenting with a new hair color. A bold change for a bold semester! ,experimenting new hair color bold change bold semester,0.2676767676767677,Tích cực
+Building a time capsule to capture memories for the future. Time-traveling emotions! ,building time capsule capture memories future timetraveling emotions,0.0,Trung lập
+Accidentally walked into the wrong classroom on the first day. Classroom mix-up: Awkward start! ,accidentally walked wrong classroom first day classroom mixup awkward start,-0.2833333333333333,Tiêu cực
+Trying out a new smoothie recipe for a healthy start to the week. Smoothie enthusiast: Level up! ,trying new smoothie recipe healthy start week smoothie enthusiast level,0.3181818181818182,Tích cực
+Reflecting on the challenges of the school year. Feeling a bit overwhelmed with assignments. ,reflecting challenges school year feeling bit overwhelmed assignments,0.0,Trung lập
+Encountered some mean-spirited comments online. Dealing with online hate is never easy. ,encountered meanspirited comments online dealing online hate never easy,-0.5083333333333333,Tiêu cực
+Had a bad day at school. Everything seems to be going wrong. ,bad day school everything seems going wrong,-0.5999999999999999,Tiêu cực
+Feeling down after not making the sports team. Disappointment lingers. ,feeling making sports team disappointment lingers,-0.6,Tiêu cực
+Witnessed a heated argument in the cafeteria. Unpleasant atmosphere at lunch. ,witnessed heated argument cafeteria unpleasant atmosphere lunch,-0.6499999999999999,Tiêu cực
+Received a not-so-great grade on a major project. Academic frustration setting in. ,received notsogreat grade major project academic frustration setting,0.03125,Trung lập
+Dealing with a personal setback. Sometimes life throws unexpected challenges. ,dealing personal setback sometimes life throws unexpected challenges,0.05,Trung lập
+Feeling lonely on a Saturday night. Sometimes solitude hits harder than expected. ,feeling lonely saturday night sometimes solitude hits harder expected,-0.09999999999999999,Trung lập
+Experiencing cyberbullying. Hateful messages online are disheartening. ,experiencing cyberbullying hateful messages online disheartening,0.0,Trung lập
+Caught in a torrential rainstorm without an umbrella. Today's weather is just bad luck. ,caught torrential rainstorm without umbrella todays weather bad luck,-0.6999999999999998,Tiêu cực
+Missing an important event due to unforeseen circumstances. A day filled with sadness. ,missing important event due unforeseen circumstances day filled sadness,0.11875000000000001,Tích cực
+Dealing with unfounded rumors circulating about personal life. Rumors can be hurtful. ,dealing unfounded rumors circulating personal life rumors hurtful,0.0,Trung lập
+Got a flat tire on the way to an important meeting. Talk about a series of bad events! ,got flat tire way important meeting talk series bad events,-0.10833333333333328,Tiêu cực
+Feeling a sense of emptiness after a close friend moves away. Farewells are always sad. ,feeling sense emptiness close friend moves away farewells always sad,-0.5,Tiêu cực
+Facing rejection from a dream college. Disheartened but determined to explore other paths. ,facing rejection dream college disheartened determined explore paths,0.0,Trung lập
+Encountering online toxicity during a gaming session. Hateful comments can ruin the fun. ,encountering online toxicity gaming session hateful comments ruin fun,0.3,Tích cực
+Having a bad hair day and feeling self-conscious. Bad hair days can affect confidence. ,bad hair day feeling selfconscious bad hair days affect confidence,-0.6999999999999998,Tiêu cực
+Feeling a sense of despair after a major project failure. Hard work didn't pay off this time. ,feeling sense despair major project failure hard work didnt pay time,-0.18194444444444446,Tiêu cực
+Experiencing hate comments for expressing personal opinions. Online negativity prevails. ,experiencing hate comments expressing personal opinions online negativity prevails,-0.4,Tiêu cực
+Having a string of bad luck with constant technology malfunctions. Tech troubles galore! ,string bad luck constant technology malfunctions tech troubles galore,-0.3499999999999999,Tiêu cực
+Missing out on a long-anticipated event due to unexpected circumstances. A day filled with sadness. ,missing longanticipated event due unexpected circumstances day filled sadness,0.043750000000000004,Trung lập
+Trying out a new study technique for upcoming exams. Exploring different learning strategies. ,trying new study technique upcoming exams exploring different learning strategies,0.06818181818181818,Trung lập
+Organizing a community cleanup event for a cleaner neighborhood. Promoting environmental awareness. ,organizing community cleanup event cleaner neighborhood promoting environmental awareness,0.0,Trung lập
+Sharing favorite book recommendations with classmates. Building a mini book club. ,sharing favorite book recommendations classmates building mini book club,0.5,Tích cực
+Experimenting with a new recipe for a school bake sale. Baking adventures in the kitchen. ,experimenting new recipe school bake sale baking adventures kitchen,0.13636363636363635,Tích cực
+Collaborating on a school project with peers. Teamwork makes the dream work. ,collaborating school project peers teamwork makes dream work,0.0,Trung lập
+Attending a school club meeting to explore new interests. Dabbling in extracurricular activities. ,attending school club meeting explore new interests dabbling extracurricular activities,0.13636363636363635,Tích cực
+Exploring a new part-time job opportunity for gaining work experience. Career development in progress. ,exploring new parttime job opportunity gaining work experience career development progress,0.13636363636363635,Tích cực
+Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities. ,attending school assembly stay informed upcoming events announcements staying connected school activities,0.0,Trung lập
+Exploring a new hobby of photography during free time. Capturing moments through a lens. ,exploring new hobby photography free time capturing moments lens,0.2681818181818182,Tích cực
+Participating in a science fair to showcase a unique experiment. Sharing knowledge with peers. ,participating science fair showcase unique experiment sharing knowledge peers,0.5375,Tích cực
+Attending a workshop on time management to enhance organizational skills. Striving for efficiency. ,attending workshop time management enhance organizational skills striving efficiency,0.0,Trung lập
+Volunteering at a local charity event to give back to the community. Contributing to social causes. ,volunteering local charity event give back community contributing social causes,0.011111111111111112,Trung lập
+Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action. ,collaborating group project promote teamwork shared responsibilities group effort action,0.1,Tích cực
+Participating in a debate club to enhance critical thinking and communication skills. Intellectual engagement in progress. ,participating debate club enhance critical thinking communication skills intellectual engagement progress,0.15,Tích cực
+Celebrating a friend's birthday with a surprise party. Joyful moments and laughter all around! ,celebrating friends birthday surprise party joyful moments laughter around,0.0,Trung lập
+Successfully completing a challenging coding project. Excitement for overcoming coding hurdles! ,successfully completing challenging coding project excitement overcoming coding hurdles,0.625,Tích cực
+Attending a school talent show to support classmates. Applauding the diverse talents on display! ,attending school talent show support classmates applauding diverse talents display,0.0,Trung lập
+"Exploring a new hiking trail with friends over the weekend. Nature, laughter, and good vibes! ",exploring new hiking trail friends weekend nature laughter good vibes,0.41818181818181815,Tích cực
+Winning a friendly sports competition against rival schools. Victory celebrations in full swing! ,winning friendly sports competition rival schools victory celebrations full swing,0.4083333333333334,Tích cực
+Receiving a heartfelt letter from a pen pal in another country. Connecting across the globe! ,receiving heartfelt letter pen pal another country connecting across globe,0.0,Trung lập
+Creating a beautiful mural with fellow art enthusiasts. The power of collaboration and creativity! ,creating beautiful mural fellow art enthusiasts power collaboration creativity,0.85,Tích cực
+Participating in a school-wide art exhibition. Witnessing creativity and spreading positive vibes! ,participating schoolwide art exhibition witnessing creativity spreading positive vibes,0.22727272727272727,Tích cực
+Achieving a personal best in a track and field competition. The thrill of victory and self-improvement! ,achieving personal best track field competition thrill victory selfimprovement,0.5,Tích cực
+Collaborating on a science project that received recognition at a regional fair. Science triumphs and smiles! ,collaborating science project received recognition regional fair science triumphs smiles,0.7,Tích cực
+"Attending a surprise birthday party organized by friends. Surrounded by love, laughter, and good company! ",attending surprise birthday party organized friends surrounded love laughter good company,0.6,Tích cực
+Successfully fundraising for a school charity initiative. The joy of giving back to the community! ,successfully fundraising school charity initiative joy giving back community,0.5166666666666667,Tích cực
+"Participating in a multicultural festival, celebrating diversity with music, dance, and delicious food! ",participating multicultural festival celebrating diversity music dance delicious food,1.0,Tích cực
+"Organizing a virtual talent show during challenging times, bringing smiles to classmates' faces! ",organizing virtual talent show challenging times bringing smiles classmates faces,0.5,Tích cực
